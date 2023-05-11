@@ -1,0 +1,1597 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "AD2U3SFIWEIxVCtWTxjrJKxx0sE",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "lJB9q0mbijT9kfn-ljPXdSiktzo",
+      "id": "mShDN5QxcMM",
+      "snippet": {
+        "publishedAt": "2023-05-10T17:00:29Z",
+        "channelId": "UCSUf5_EPEfl4zlBKZHkZdmw",
+        "title": "I'M Z-O-M-B-I-E-S",
+        "description": "its the disney channel original movie ZOMBIES and its Danny and he's gonna talk about it and it's gonna be very good!\n\nedited by edited by https://www.instagram.com/jakeshotfriend/\n\nMERCH ► http://dannygonzalez.store\n\nFollow Me\nSECOND CHANNEL ► https://www.youtube.com/c/2Danny2Furious\nGAMING CHANNEL ► https://www.youtube.com/channel/UC2mQG51F8wu7njF84D-49cA\nINSTAGRAM ► https://www.instagram.com/dannygonzalez/\nTWITTER ► https://twitter.com/dannygonzalez\nTWITCH ► https://twitch.tv/dannygoonzalez\nSPOTIFY ► https://open.spotify.com/artist/6pDkmNhHCLh7YEb3sXceOs?si=8ZpMgF41SoufOS1UZ4vbkg\n\nSubmit a video topic https://forms.gle/VNa9Tq6Ncok8RWjN9",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mShDN5QxcMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mShDN5QxcMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mShDN5QxcMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mShDN5QxcMM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mShDN5QxcMM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Danny Gonzalez",
+        "tags": [
+          "danny gonzalez",
+          "funny",
+          "commentary",
+          "comedy",
+          "react",
+          "reaction",
+          "reacting",
+          "awful",
+          "humor"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I'M Z-O-M-B-I-E-S",
+          "description": "its the disney channel original movie ZOMBIES and its Danny and he's gonna talk about it and it's gonna be very good!\n\nedited by edited by https://www.instagram.com/jakeshotfriend/\n\nMERCH ► http://dannygonzalez.store\n\nFollow Me\nSECOND CHANNEL ► https://www.youtube.com/c/2Danny2Furious\nGAMING CHANNEL ► https://www.youtube.com/channel/UC2mQG51F8wu7njF84D-49cA\nINSTAGRAM ► https://www.instagram.com/dannygonzalez/\nTWITTER ► https://twitter.com/dannygonzalez\nTWITCH ► https://twitch.tv/dannygoonzalez\nSPOTIFY ► https://open.spotify.com/artist/6pDkmNhHCLh7YEb3sXceOs?si=8ZpMgF41SoufOS1UZ4vbkg\n\nSubmit a video topic https://forms.gle/VNa9Tq6Ncok8RWjN9"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "L3pNrZjgekmbv54sDcCvTUXUBQY",
+      "id": "wFU1rF6DfWs",
+      "snippet": {
+        "publishedAt": "2023-05-09T21:07:36Z",
+        "channelId": "UCET00YnetHT7tOpu12v8jxg",
+        "title": "Real Madrid vs. Man. City: Extended Highlights | UCL Semi-Finals - Leg 1 | CBS Sports Golazo",
+        "description": "Pep Guardiola’s free-scoring Manchester City, led by the unrivaled Erling Haaland, take on UCL record holders and defending champions Real Madrid.\n\nStream every UEFA Champions League match live on Paramount+:https://www.paramountplus.com/shows/uefa-champions-league/\n\n#UCL #ChampionsLeague #UEFA #RealMadrid #ManCity #ManchesterCity #Vini #KDB",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wFU1rF6DfWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wFU1rF6DfWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wFU1rF6DfWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wFU1rF6DfWs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wFU1rF6DfWs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CBS Sports Golazo",
+        "tags": [
+          "Champions League",
+          "Europa League",
+          "Soccer",
+          "UEFA",
+          "UCL",
+          "European Soccer",
+          "European Football",
+          "European Futbol",
+          "UEL"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Real Madrid vs. Man. City: Extended Highlights | UCL Semi-Finals - Leg 1 | CBS Sports Golazo",
+          "description": "Pep Guardiola’s free-scoring Manchester City, led by the unrivaled Erling Haaland, take on UCL record holders and defending champions Real Madrid.\n\nStream every UEFA Champions League match live on Paramount+:https://www.paramountplus.com/shows/uefa-champions-league/\n\n#UCL #ChampionsLeague #UEFA #RealMadrid #ManCity #ManchesterCity #Vini #KDB"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HmeSwLXnrfQ1G0jA9E4riP9FrU8",
+      "id": "JWTwkwoqHK4",
+      "snippet": {
+        "publishedAt": "2023-05-10T13:30:07Z",
+        "channelId": "UCVRm2Ho8cL3lvWDyp2ayuFw",
+        "title": "Andy Reid on Drafting the Kelce Brothers, Coaching Mahomes, Super Bowl Memories & More | EP 38",
+        "description": "92%ers we are back with another episode of New Heights presented by our friends at Fireball. \n\nIn this episode, we are joined by maybe our most requested guest. It’s the two-time Super Bowl Champion head coach of the Kansas City Chiefs Andy Reid! \n\nCoach Reid talks with the guys about his real first impression of Travis, what advice led him to become an NFL head coach, the biggest takeaway from his time in Philly, and if Travis will ever get another shot at QB. \n\nWe also dive into how he coaches Patrick Mahomes, how he felt coaching against his former team in the Super Bowl, how NFL offenses have changed since he started coaching, and most importantly, his go-to fast food burger. \n\nAs always, watch and listen to new episodes of New Heights with Jason and Travis Kelce every Wednesday & check us out on Instagram, Twitter, and Tik Tok for all the best moments from the show. \n\nDownload the full podcast here: \nApple: \nhttps://podcasts.apple.com/us/podcast/new-heights/id1643745036\n\nSpotify:\nhttps://open.spotify.com/show/1y3SUbFMUSESC1N43tBleK?si=LsuQ4a5MRN6wGMcfVcuynw\n\nFollow New Heights on Social Media: \nhttp://hoo.be/newheightshow\n\nMerch:\nhttps://homage.com/newheights \n\nSupport the Show:  \nFireball: Enjoy the #1 shot in the country responsibly and visit https://www.fireballwhisky.com to find out where you can purchase those little cinnamon delights \n\nSeat Geek: Use code KELCE20 for $20 off your first SeatGeek order. https://seatgeek.onelink.me/RrnK/KELCE20 \n\nChapters: \n00:00 - Intro \n2:45 - New News - Can Andy Reid Backflip? \n8:50 - Drafting the Kelce Brothers \n14:10 - Becoming a Head Coach \n19:15 - Head Coaching Advice\n 21:30 - Wins Vs Losses \n24:10 - Philly Era \n28:41 - Travis at Quarterback  \n30:15 - Coaching Mahomes \n35:25 - Super Bowl Memories \n39:00 - NFL Offensive Evolution \n42:25 - Rapid Fire - Burgers, Favorite Play Calls, 4th Downs \n\n#nfl #philadelphiaeagles #kansascitychiefs #andyreid #newheights #patrickmahomes #superbowl",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JWTwkwoqHK4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JWTwkwoqHK4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JWTwkwoqHK4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JWTwkwoqHK4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JWTwkwoqHK4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "New Heights",
+        "tags": [
+          "New Heights",
+          "NFL",
+          "Shorts",
+          "Football",
+          "Jukes",
+          "Travis Kelce",
+          "Kansas City",
+          "Chiefs",
+          "Jason Kelce",
+          "Philadelphia",
+          "Eagles",
+          "Kansas City Chiefs",
+          "Philadelphia Eagles",
+          "Andy Reid",
+          "Super Bowl",
+          "Patrick Mahoney",
+          "Reggie White"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Andy Reid on Drafting the Kelce Brothers, Coaching Mahomes, Super Bowl Memories & More | EP 38",
+          "description": "92%ers we are back with another episode of New Heights presented by our friends at Fireball. \n\nIn this episode, we are joined by maybe our most requested guest. It’s the two-time Super Bowl Champion head coach of the Kansas City Chiefs Andy Reid! \n\nCoach Reid talks with the guys about his real first impression of Travis, what advice led him to become an NFL head coach, the biggest takeaway from his time in Philly, and if Travis will ever get another shot at QB. \n\nWe also dive into how he coaches Patrick Mahomes, how he felt coaching against his former team in the Super Bowl, how NFL offenses have changed since he started coaching, and most importantly, his go-to fast food burger. \n\nAs always, watch and listen to new episodes of New Heights with Jason and Travis Kelce every Wednesday & check us out on Instagram, Twitter, and Tik Tok for all the best moments from the show. \n\nDownload the full podcast here: \nApple: \nhttps://podcasts.apple.com/us/podcast/new-heights/id1643745036\n\nSpotify:\nhttps://open.spotify.com/show/1y3SUbFMUSESC1N43tBleK?si=LsuQ4a5MRN6wGMcfVcuynw\n\nFollow New Heights on Social Media: \nhttp://hoo.be/newheightshow\n\nMerch:\nhttps://homage.com/newheights \n\nSupport the Show:  \nFireball: Enjoy the #1 shot in the country responsibly and visit https://www.fireballwhisky.com to find out where you can purchase those little cinnamon delights \n\nSeat Geek: Use code KELCE20 for $20 off your first SeatGeek order. https://seatgeek.onelink.me/RrnK/KELCE20 \n\nChapters: \n00:00 - Intro \n2:45 - New News - Can Andy Reid Backflip? \n8:50 - Drafting the Kelce Brothers \n14:10 - Becoming a Head Coach \n19:15 - Head Coaching Advice\n 21:30 - Wins Vs Losses \n24:10 - Philly Era \n28:41 - Travis at Quarterback  \n30:15 - Coaching Mahomes \n35:25 - Super Bowl Memories \n39:00 - NFL Offensive Evolution \n42:25 - Rapid Fire - Burgers, Favorite Play Calls, 4th Downs \n\n#nfl #philadelphiaeagles #kansascitychiefs #andyreid #newheights #patrickmahomes #superbowl"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QTem5djLUiLXKOEiuDjLIZmRld8",
+      "id": "b_MChcA2YXo",
+      "snippet": {
+        "publishedAt": "2023-05-09T17:00:18Z",
+        "channelId": "UCnmGIkw-KdI0W5siakKPKog",
+        "title": "I Tried Public Sleep Pods",
+        "description": "no but really who smoked\nshopify free trial - https://shopify.com/ryantrahan\nbuy howdy on Shop - https://go.shop.app/howdy\nhowdy  - https://howdyhowdy.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b_MChcA2YXo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b_MChcA2YXo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b_MChcA2YXo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b_MChcA2YXo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b_MChcA2YXo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ryan Trahan",
+        "tags": ["Ryan", "Trahan", "sleep pod", "capsule hotel", "japan"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Tried Public Sleep Pods",
+          "description": "no but really who smoked\nshopify free trial - https://shopify.com/ryantrahan\nbuy howdy on Shop - https://go.shop.app/howdy\nhowdy  - https://howdyhowdy.com"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mh6nKyU1REXQL0P7lIZHO55XYec",
+      "id": "WmWCAujwbrE",
+      "snippet": {
+        "publishedAt": "2023-05-09T22:00:18Z",
+        "channelId": "UCVo63lbKHjC04KqYhwSZ_Pg",
+        "title": "Defunctland: The Awful Wiggles Dark Ride",
+        "description": "In this minisode, Kevin explores the Wiggly history of the defunct Wiggles dark ride, The Big Red Car Ride, at Dreamworld in Australia.\n\nSpecial Thanks to ReviewTyme for consulting on the episode!\nhttps://www.youtube.com/@ReviewTyme\n\nSources:\nBen Roach, https://ourworlds.au\nRichard Wilson, https://parkz.com\nDreamworld's Golden Years, https://www.facebook.com/dwgoldenyears\nTheme Park Ogre, https://youtube.com/@themeparkogre\nAltzone, https://www.youtube.com/@Altzone\nDevoted to Disney Down Under, https://www.youtube.com/@DevotedtoDisneyDownunder\nThe Red Coaster Channel, https://www.youtube.com/@TheRedCoasterChannel\nNzzaney, https://www.youtube.com/@nzzaney\nJodie Guerrero, https://www.youtube.com/@JodieGuerrero\nProgress City, U.S.A., https://progresscityusa.com/\nDavid Gladwell, https://www.youtube.com/@davidgladwell5582\nThemeParkHD, https://www.youtube.com/@themeparkhd\nLMG Vids, https://www.youtube.com/@lmgvids\nDylan TPE, https://themeparksandentertainment.com\n\nDonate on Patreon:\nhttps://patreon.com/defunctland\n\nBuy Defunctland Merch:\r\nhttps://defunctland.com/store\r\n\r\nFacebook Group:\r\nhttps://www.facebook.com/Defunctland-1142494142561537/\n\nDefunctland Twitter:\nhttps://twitter.com/defunctland\n\r\nKevin's Twitter:\r\nhttps://twitter.com/kevinperjurer\r\n\r\nDefunctland Subreddit:\r\nhttps://reddit.com/r/defunctland\r\n\r\nFor more great content, visit defunctland.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WmWCAujwbrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WmWCAujwbrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WmWCAujwbrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WmWCAujwbrE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WmWCAujwbrE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Defunctland",
+        "tags": [
+          "defunctland",
+          "kevin perjurer",
+          "theme park",
+          "extinct",
+          "abandoned",
+          "defunct",
+          "history",
+          "disney",
+          "disneyland",
+          "disney world",
+          "previous",
+          "attractions",
+          "on ride",
+          "lights on",
+          "wiggles",
+          "wiggles dark ride",
+          "wiggles ride history",
+          "dreamworld",
+          "australia theme parks",
+          "theme parks wiggles",
+          "children's theme parks",
+          "theme park history videos",
+          "old theme park rides",
+          "defunct dark rides",
+          "wiggles history",
+          "wiggles documentary",
+          "theme park documentaries",
+          "wiggles history video",
+          "wiggles amusement park",
+          "big red car ride"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Defunctland: The Awful Wiggles Dark Ride",
+          "description": "In this minisode, Kevin explores the Wiggly history of the defunct Wiggles dark ride, The Big Red Car Ride, at Dreamworld in Australia.\n\nSpecial Thanks to ReviewTyme for consulting on the episode!\nhttps://www.youtube.com/@ReviewTyme\n\nSources:\nBen Roach, https://ourworlds.au\nRichard Wilson, https://parkz.com\nDreamworld's Golden Years, https://www.facebook.com/dwgoldenyears\nTheme Park Ogre, https://youtube.com/@themeparkogre\nAltzone, https://www.youtube.com/@Altzone\nDevoted to Disney Down Under, https://www.youtube.com/@DevotedtoDisneyDownunder\nThe Red Coaster Channel, https://www.youtube.com/@TheRedCoasterChannel\nNzzaney, https://www.youtube.com/@nzzaney\nJodie Guerrero, https://www.youtube.com/@JodieGuerrero\nProgress City, U.S.A., https://progresscityusa.com/\nDavid Gladwell, https://www.youtube.com/@davidgladwell5582\nThemeParkHD, https://www.youtube.com/@themeparkhd\nLMG Vids, https://www.youtube.com/@lmgvids\nDylan TPE, https://themeparksandentertainment.com\n\nDonate on Patreon:\nhttps://patreon.com/defunctland\n\nBuy Defunctland Merch:\r\nhttps://defunctland.com/store\r\n\r\nFacebook Group:\r\nhttps://www.facebook.com/Defunctland-1142494142561537/\n\nDefunctland Twitter:\nhttps://twitter.com/defunctland\n\r\nKevin's Twitter:\r\nhttps://twitter.com/kevinperjurer\r\n\r\nDefunctland Subreddit:\r\nhttps://reddit.com/r/defunctland\r\n\r\nFor more great content, visit defunctland.com"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BTgLAUQoH-MceiJChnERlYJsHOE",
+      "id": "Gh3c9tn3ROU",
+      "snippet": {
+        "publishedAt": "2023-05-09T16:17:45Z",
+        "channelId": "UCuo9VyowIT-ljA5G2ZuC6Yw",
+        "title": "The Death of Late Night TV",
+        "description": "Get 32% off 1-3 Displates and 42% off 4+ Displates with code EDDY at https://displate.com/burback\n\nmerch - https://www.yikesshop.com/\n\nmy other channel - https://www.youtube.com/channel/UCJHM5IJ44__fkOxkD4vxoBw\n\nInstagram - https://www.instagram.com/eddyburback\n\nTwitter - https://twitter.com/eddyburback",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gh3c9tn3ROU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gh3c9tn3ROU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gh3c9tn3ROU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gh3c9tn3ROU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gh3c9tn3ROU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Eddy Burback",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Death of Late Night TV",
+          "description": "Get 32% off 1-3 Displates and 42% off 4+ Displates with code EDDY at https://displate.com/burback\n\nmerch - https://www.yikesshop.com/\n\nmy other channel - https://www.youtube.com/channel/UCJHM5IJ44__fkOxkD4vxoBw\n\nInstagram - https://www.instagram.com/eddyburback\n\nTwitter - https://twitter.com/eddyburback"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "20YtL7h0I6n1adWtKAmb8_5mNH4",
+      "id": "udnCCKghX30",
+      "snippet": {
+        "publishedAt": "2023-05-10T17:01:09Z",
+        "channelId": "UCKmLw-0rYN0prXDFITjN4og",
+        "title": "It Is Almost Time",
+        "description": "#MortalKombat #Clock #Teaser",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/udnCCKghX30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/udnCCKghX30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/udnCCKghX30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/udnCCKghX30/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/udnCCKghX30/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mortal Kombat",
+        "tags": [
+          "mortal kombat",
+          "video games",
+          "video",
+          "games",
+          "trailers",
+          "trailer",
+          "netherrealm",
+          "warner bros",
+          "warner brothers",
+          "gaming",
+          "gamers",
+          "m rated",
+          "gore",
+          "xbox one",
+          "ps4",
+          "pc",
+          "xbox",
+          "xbox games",
+          "sequel",
+          "playstation 4",
+          "playstation",
+          "Nintendo",
+          "Nintendo switch",
+          "switch",
+          "mortal combat",
+          "steam",
+          "cool fights",
+          "ninjas",
+          "fatality",
+          "Fatalities",
+          "Nintendo games",
+          "combo",
+          "combos",
+          "combat",
+          "Clock",
+          "Tease",
+          "mk12",
+          "mk 12"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "It Is Almost Time",
+          "description": "#MortalKombat #Clock #Teaser"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MizQ-b8GJpp6DIO-U0NIAde0hIc",
+      "id": "8-MFg_0wY4U",
+      "snippet": {
+        "publishedAt": "2023-05-10T04:00:10Z",
+        "channelId": "UC2PeMPA8PAOp-bynLoCeMLA",
+        "title": "Animated Short: A Flash | Honkai: Star Rail",
+        "description": "Download Now: https://hoyo.link/20xlCDAd\nYear 7380 Star Calendar, Jingliu, the mara-stricken swordmaster of the Luofu, slashed her way out of Starskiff Haven, cutting through the Cloud Knights tasked to subdue her before vanishing in the mist of history.\n\nYear 8096 Star Calendar, a young soldier named Yanqing rose to fame from the tournament hosted by the Seat of Divine Foresight, and was conferred the rank of Cloud Knight Lieutenant.\n\n\"The years pass in a flash, cups of wine the only solace.\"\n\nA fleeting flash — thus is the speed of swift blades as the master and her student spar, and thus is the passage of the unceasing torrent of time.\n\nJust how long has it been?\n\nHis duel with his master, centuries ago, still rippled like a memory from yesterday.\n\nBut the few years between now and when he took in the boy as his student felt like a lifetime.\n\nTime gallops, swift as a stallion, sudden as a lightning strike, agonizing as a blade that runs him through. And yet, it feels like everything has always been the same.\n\nProduction: miHoYo Anime\nCo-Production: Fantasier Animation, Studio ppuri\nOriginal Score: HOYO-MiX\n\nFollow us to get the latest info.\nHoYoLAB: https://www.hoyolab.com/accountCenter/postList?id=172534910\nFacebook: https://www.facebook.com/HonkaiStarRail/\nTwitter: https://twitter.com/honkaistarrail\nDiscord: https://discord.gg/honkaistarrail\nInstagram: https://www.instagram.com/honkaistarrail/\nTikTok: https://www.tiktok.com/@honkaistarrail_official\nReddit: https://www.reddit.com/r/HonkaiStarRail/\n\nSubscribe to our YouTube feed to receive notifications of future content!\n#HonkaiStarRail",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8-MFg_0wY4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8-MFg_0wY4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8-MFg_0wY4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8-MFg_0wY4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8-MFg_0wY4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Honkai: Star Rail",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Animated Short: A Flash | Honkai: Star Rail",
+          "description": "Download Now: https://hoyo.link/20xlCDAd\nYear 7380 Star Calendar, Jingliu, the mara-stricken swordmaster of the Luofu, slashed her way out of Starskiff Haven, cutting through the Cloud Knights tasked to subdue her before vanishing in the mist of history.\n\nYear 8096 Star Calendar, a young soldier named Yanqing rose to fame from the tournament hosted by the Seat of Divine Foresight, and was conferred the rank of Cloud Knight Lieutenant.\n\n\"The years pass in a flash, cups of wine the only solace.\"\n\nA fleeting flash — thus is the speed of swift blades as the master and her student spar, and thus is the passage of the unceasing torrent of time.\n\nJust how long has it been?\n\nHis duel with his master, centuries ago, still rippled like a memory from yesterday.\n\nBut the few years between now and when he took in the boy as his student felt like a lifetime.\n\nTime gallops, swift as a stallion, sudden as a lightning strike, agonizing as a blade that runs him through. And yet, it feels like everything has always been the same.\n\nProduction: miHoYo Anime\nCo-Production: Fantasier Animation, Studio ppuri\nOriginal Score: HOYO-MiX\n\nFollow us to get the latest info.\nHoYoLAB: https://www.hoyolab.com/accountCenter/postList?id=172534910\nFacebook: https://www.facebook.com/HonkaiStarRail/\nTwitter: https://twitter.com/honkaistarrail\nDiscord: https://discord.gg/honkaistarrail\nInstagram: https://www.instagram.com/honkaistarrail/\nTikTok: https://www.tiktok.com/@honkaistarrail_official\nReddit: https://www.reddit.com/r/HonkaiStarRail/\n\nSubscribe to our YouTube feed to receive notifications of future content!\n#HonkaiStarRail"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mI43Bj-6987jCDn4Egsk72jNicI",
+      "id": "ywXSnPiip38",
+      "snippet": {
+        "publishedAt": "2023-05-09T22:01:29Z",
+        "channelId": "UCWb0O7gdabdhZd62xiHTp0Q",
+        "title": "Blind Dating 8 Guys Based On Their Outfits",
+        "description": "SUBSCRIBE TO MY PATREON!!!\nhttps://www.patreon.com/DavidAlvareeezy\n\nPLEASE SUBSCRIBE!! I’ll love you forever :)\n\ngo watch Nezzas new video\nhttps://www.youtube.com/watch?v=-Hy2B0b7iTc\n\nVideo was inspired by Jubilee!\nGo check them out! I love them\nhttps://www.youtube.com/c/jubileemedia\n\nfollow me on TWITCH\nhttps://www.twitch.tv/davidalvareeezy\n\nFOLLOW ME!\nDavid Alvarez: \nTwitter: http://www.twitter.com/davidalvareeezy\nInstagram: http://www.instagram.com/davidalvareeezy\nFacebook: https://www.facebook.com/DavidAlvaree...\nFor business inquires: Please Email me at AlphaMonkeysBusiness@gmail.com\n\nProduced by Team Playback\nWebsite: https://www.teamplayback.com\nIG: https://www.instagram.com/team.playback/\nBiz Inquiries: matt@teamplayback.com\n\nFOLLOW NEZZA\n@nezza \nhttps://www.instagram.com/babynezza/\nhttps://www.youtube.com/watch?v=-Hy2B0b7iTc\n\n@FrannyArrieta \nhttps://www.instagram.com/franny_arrieta/\n\nFOLLOW THE GUYS\n\nSAM\nhttps://www.instagram.com/samnejad_/\n\nKIO\nhttps://www.instagram.com/kiocyr/\n\nPETER\nhttps://www.instagram.com/petervigilante/\n\nKENNY\nhttps://www.instagram.com/kennyjknox/\n\nJOHNNY\nhttps://www.instagram.com/johnnyvargas/\n\nTREVOR\n@TrevorWallace \nhttps://www.instagram.com/trevorwallace/\n\nRYAN\n@RyanTheLeader \nhttps://www.instagram.com/ryantheleader/\n\nFABIO\n@FabioGuerra \nhttps://www.instagram.com/fabioguerrrraa/\n\nIf you see this comment “David you're cute... not that hot but super cute” so I know you love me and read this.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ywXSnPiip38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ywXSnPiip38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ywXSnPiip38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ywXSnPiip38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ywXSnPiip38/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "David Alvareeezy",
+        "tags": [
+          "David alvareeezy",
+          "David alvarez",
+          "blind dating",
+          "blind dating men based on their outfits",
+          "blind dating jubilee",
+          "jubilee blind dating",
+          "blind dating 5 girls based on their outfits",
+          "blind dating 6 girls based on their outfits",
+          "blind dating 7 women based on their outfits",
+          "blind dating 6 men based on their bodies | versus 1",
+          "dating",
+          "blind dating 5 girls",
+          "blind dating 6 men based on their bodies",
+          "blind dating 6 women based on their bodies",
+          "blind dating based on",
+          "cut",
+          "knj"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Blind Dating 8 Guys Based On Their Outfits",
+          "description": "SUBSCRIBE TO MY PATREON!!!\nhttps://www.patreon.com/DavidAlvareeezy\n\nPLEASE SUBSCRIBE!! I’ll love you forever :)\n\ngo watch Nezzas new video\nhttps://www.youtube.com/watch?v=-Hy2B0b7iTc\n\nVideo was inspired by Jubilee!\nGo check them out! I love them\nhttps://www.youtube.com/c/jubileemedia\n\nfollow me on TWITCH\nhttps://www.twitch.tv/davidalvareeezy\n\nFOLLOW ME!\nDavid Alvarez: \nTwitter: http://www.twitter.com/davidalvareeezy\nInstagram: http://www.instagram.com/davidalvareeezy\nFacebook: https://www.facebook.com/DavidAlvaree...\nFor business inquires: Please Email me at AlphaMonkeysBusiness@gmail.com\n\nProduced by Team Playback\nWebsite: https://www.teamplayback.com\nIG: https://www.instagram.com/team.playback/\nBiz Inquiries: matt@teamplayback.com\n\nFOLLOW NEZZA\n@nezza \nhttps://www.instagram.com/babynezza/\nhttps://www.youtube.com/watch?v=-Hy2B0b7iTc\n\n@FrannyArrieta \nhttps://www.instagram.com/franny_arrieta/\n\nFOLLOW THE GUYS\n\nSAM\nhttps://www.instagram.com/samnejad_/\n\nKIO\nhttps://www.instagram.com/kiocyr/\n\nPETER\nhttps://www.instagram.com/petervigilante/\n\nKENNY\nhttps://www.instagram.com/kennyjknox/\n\nJOHNNY\nhttps://www.instagram.com/johnnyvargas/\n\nTREVOR\n@TrevorWallace \nhttps://www.instagram.com/trevorwallace/\n\nRYAN\n@RyanTheLeader \nhttps://www.instagram.com/ryantheleader/\n\nFABIO\n@FabioGuerra \nhttps://www.instagram.com/fabioguerrrraa/\n\nIf you see this comment “David you're cute... not that hot but super cute” so I know you love me and read this."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gV20sxZcstZmlsczD6N1yQ09LU4",
+      "id": "_LVjrbXZ0AM",
+      "snippet": {
+        "publishedAt": "2023-05-10T17:00:16Z",
+        "channelId": "UCPD_bxCRGpmmeQcbe2kpPaA",
+        "title": "Elizabeth Olsen Gets a Burger Master Class | Burger Bucket List",
+        "description": "When we heard actor Elizabeth Olsen likes In-N-Out but considers herself a burger novice, we knew we had to step in and change that. That's why host Alvin Cailan and his comedic side-kick Christian Alquiza have made it their personal mission to create the ultimate burger master class for the star of HBO Max's new series, Love & Death. Behold: A tasting menu of three custom burgers, featuring 1). An In-N-Out Oklahoma fried-onion hybrid, 2). A riff on the iconic patty melt, and 3). A surprise burger inspired by Elizabeth's all-time favorite pasta dish! We fact checked our sources. We did our research. Welcome to the Elizabeth Olsen Burger Master Class. \n\n\nBUY HOT ONES HOT SAUCE NOW: https://fwfea.st/hotsauces\n\nTRY THE HOT ONES BONELESS CHICKEN BITE CHALLENGE: https://fwfea.st/chickenbites\n\nBUY HOT ONES TRUTH OR DAB: THE GAME: http://truthordabgame.com\n\nSHOP HOT ONES MERCH: https://bit.ly/2AIS271\n\nSIGN UP FOR THE HOT ONES MONTHLY HOT SAUCE SUBSCRIPTION: https://bit.ly/2veY50P\n\nSIGN UP FOR THE FIRST WE FEAST NEWSLETTER: http://firstwefeast.com/signup\n\nSUBSCRIBE TO FIRST WE FEAST ON YOUTUBE: http://goo.gl/UxFzhK\n\nMAKE A DIFFERENCE BY DONATING TO COMMON THREADS, THE OFFICIAL  CHARITY PARTNER OF HOT ONES: https://www.commonthreads.org/firstwe...\n\nCheck out more of First We Feast here:\nhttp://firstwefeast.com/\nhttp://instagram.com/firstwefeast\nhttp://instagram.com/hotones/\nhttps://twitter.com/firstwefeast\nhttps://www.facebook.com/FirstWeFeast\n\nFirst We Feast videos offer an iconoclastic view into the culinary world, taking you behind-the-scenes with some of the country’s best chefs and finding the unexpected places where food and pop culture intersect.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_LVjrbXZ0AM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_LVjrbXZ0AM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_LVjrbXZ0AM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_LVjrbXZ0AM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_LVjrbXZ0AM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "First We Feast",
+        "tags": [
+          "First we feast",
+          "fwf",
+          "firstwefeast",
+          "food",
+          "food porn",
+          "cooking",
+          "chef",
+          "recipe",
+          "complex networks",
+          "spicy food",
+          "foodie",
+          "burgers",
+          "food documentary",
+          "alvin cailan",
+          "george motz",
+          "burger show",
+          "burger scholar sessions",
+          "hot ones",
+          "elizabeth olsen",
+          "neil degrasse tyson",
+          "Burger month",
+          "burger bucket list",
+          "fried onion burger",
+          "fried onion burger george motz",
+          "how to",
+          "best burger",
+          "burger recipe",
+          "sean evans",
+          "budget",
+          "best burgers by budget",
+          "burger how to",
+          "burger scholar",
+          "love & death",
+          "hbo max"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Elizabeth Olsen Gets a Burger Master Class | Burger Bucket List",
+          "description": "When we heard actor Elizabeth Olsen likes In-N-Out but considers herself a burger novice, we knew we had to step in and change that. That's why host Alvin Cailan and his comedic side-kick Christian Alquiza have made it their personal mission to create the ultimate burger master class for the star of HBO Max's new series, Love & Death. Behold: A tasting menu of three custom burgers, featuring 1). An In-N-Out Oklahoma fried-onion hybrid, 2). A riff on the iconic patty melt, and 3). A surprise burger inspired by Elizabeth's all-time favorite pasta dish! We fact checked our sources. We did our research. Welcome to the Elizabeth Olsen Burger Master Class. \n\n\nBUY HOT ONES HOT SAUCE NOW: https://fwfea.st/hotsauces\n\nTRY THE HOT ONES BONELESS CHICKEN BITE CHALLENGE: https://fwfea.st/chickenbites\n\nBUY HOT ONES TRUTH OR DAB: THE GAME: http://truthordabgame.com\n\nSHOP HOT ONES MERCH: https://bit.ly/2AIS271\n\nSIGN UP FOR THE HOT ONES MONTHLY HOT SAUCE SUBSCRIPTION: https://bit.ly/2veY50P\n\nSIGN UP FOR THE FIRST WE FEAST NEWSLETTER: http://firstwefeast.com/signup\n\nSUBSCRIBE TO FIRST WE FEAST ON YOUTUBE: http://goo.gl/UxFzhK\n\nMAKE A DIFFERENCE BY DONATING TO COMMON THREADS, THE OFFICIAL  CHARITY PARTNER OF HOT ONES: https://www.commonthreads.org/firstwe...\n\nCheck out more of First We Feast here:\nhttp://firstwefeast.com/\nhttp://instagram.com/firstwefeast\nhttp://instagram.com/hotones/\nhttps://twitter.com/firstwefeast\nhttps://www.facebook.com/FirstWeFeast\n\nFirst We Feast videos offer an iconoclastic view into the culinary world, taking you behind-the-scenes with some of the country’s best chefs and finding the unexpected places where food and pop culture intersect."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Bof_F91_wWfX0MUmNrNXYG4JWQc",
+      "id": "tIDkzxwBMeg",
+      "snippet": {
+        "publishedAt": "2023-05-09T20:34:34Z",
+        "channelId": "UCOTPo2y-NHJjg1EuENrxypA",
+        "title": "Lakers take 3-1 lead over Warriors, LeBron shines & Steph struggles late | NBA | FIRST THINGS FIRST",
+        "description": "Nick Wright, Chris Broussard and Kevin Wildes react to the Los Angeles Lakers win vs. Golden State Warriors in Game 4. Nick, Brou and Wildes breakdown Lonnie Walker IV’s breakthrough performance, Stephen Curry’s struggles late in the game and LeBron James’ 27 point performance.\n\n#FirstThingsFirst #NBA #Lakers\n\nDownload the free-to-play FOX Bet Super 6 app: https://foxs.pt/3z96p0j\n\nSUBSCRIBE to get the latest from First Things First: http://foxs.pt/SubscribeFIRSTTHINGSFIRST\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n►Watch the latest content from First Things First: https://foxs.pt/LatestOnFIRSTTHINGSFIRST\n\n▶ The Carton Show's YouTube channel: http://sprtspod.fox/SubscribeCartonShow\n▶ The Herd with Colin Cowherd’s YouTube channel: http://foxs.pt/SubscribeTHEHERD\n► UNDISPUTED’s YouTube channel: http://foxs.pt/SubscribeUNDISPUTED \n► Speak's YouTube channel: http://sprtspod.fox/SUBSCRIBEtoSpeak\n► FOX Bet Live’s YouTube channel: https://foxs.pt/SubscribeFOXBETLIVE\n► Club Shay Shay’s YouTube channel: http://foxs.pt/SubscribeCLUBSHAYSHAY\n► The Skip Bayless Show YouTube channel: http://sprtspod.fox/SUBSCRIBESkipShow\n► What's Wright? with Nick Wright YouTube channel: http://sprtspod.fox/whatswright/youtube\n\nSee more from First Things First: http://foxs.pt/FIRSTTHINGSFIRSTFoxSports\nLike First Things First on Facebook: http://foxs.pt/FIRSTTHINGSFIRSTFacebook\nFollow First Things First on Twitter: http://foxs.pt/FIRSTTHINGSFIRSTTwitter\nFollow First Things First on Instagram: http://foxs.pt/FIRSTTHINGSFIRSTInstagram\n\nFollow Nick Wright on Twitter: http://foxs.pt/NickWrightTwitter\nFollow Chris Broussard on Twitter: https://twitter.com/Chris_Broussard\nFollow Kevin Wildes on Twitter: https://foxs.pt/KevinWildesTwitter\n\nAbout First Things First:\nNick Wright, Chris Broussard, and Kevin Wildes team up on First Things First. The trio offers their take on a bevy of sports stories alongside special guests from across the sports world.\n\nLakers take 3-1 lead over Warriors, LeBron shines & Steph struggles late | NBA | FIRST THINGS FIRST\nhttps://youtu.be/tIDkzxwBMeg\n\nFirst Things First\nhttps://www.youtube.com/c/FirstThingsFirst",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tIDkzxwBMeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tIDkzxwBMeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tIDkzxwBMeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tIDkzxwBMeg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tIDkzxwBMeg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "First Things First",
+        "tags": [
+          "NBA",
+          "Basketball",
+          "First Things First",
+          "FTF",
+          "Nick Wright",
+          "Chris Broussard",
+          "Kevin Wildes",
+          "NBA Playoffs",
+          "Los Angeles Lakers",
+          "Lakers",
+          "LeBron James",
+          "LeBron",
+          "Golden State Warriors",
+          "Warriors",
+          "Steph Curry",
+          "Stephen Curry",
+          "Curry",
+          "Klay Thompson",
+          "Jordan Poole",
+          "Draymond Green",
+          "Lonnie Walker IV",
+          "nba playoffs",
+          "playoffs",
+          "Lonnie Walker IV’s breakthrough performance"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lakers take 3-1 lead over Warriors, LeBron shines & Steph struggles late | NBA | FIRST THINGS FIRST",
+          "description": "Nick Wright, Chris Broussard and Kevin Wildes react to the Los Angeles Lakers win vs. Golden State Warriors in Game 4. Nick, Brou and Wildes breakdown Lonnie Walker IV’s breakthrough performance, Stephen Curry’s struggles late in the game and LeBron James’ 27 point performance.\n\n#FirstThingsFirst #NBA #Lakers\n\nDownload the free-to-play FOX Bet Super 6 app: https://foxs.pt/3z96p0j\n\nSUBSCRIBE to get the latest from First Things First: http://foxs.pt/SubscribeFIRSTTHINGSFIRST\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n►Watch the latest content from First Things First: https://foxs.pt/LatestOnFIRSTTHINGSFIRST\n\n▶ The Carton Show's YouTube channel: http://sprtspod.fox/SubscribeCartonShow\n▶ The Herd with Colin Cowherd’s YouTube channel: http://foxs.pt/SubscribeTHEHERD\n► UNDISPUTED’s YouTube channel: http://foxs.pt/SubscribeUNDISPUTED \n► Speak's YouTube channel: http://sprtspod.fox/SUBSCRIBEtoSpeak\n► FOX Bet Live’s YouTube channel: https://foxs.pt/SubscribeFOXBETLIVE\n► Club Shay Shay’s YouTube channel: http://foxs.pt/SubscribeCLUBSHAYSHAY\n► The Skip Bayless Show YouTube channel: http://sprtspod.fox/SUBSCRIBESkipShow\n► What's Wright? with Nick Wright YouTube channel: http://sprtspod.fox/whatswright/youtube\n\nSee more from First Things First: http://foxs.pt/FIRSTTHINGSFIRSTFoxSports\nLike First Things First on Facebook: http://foxs.pt/FIRSTTHINGSFIRSTFacebook\nFollow First Things First on Twitter: http://foxs.pt/FIRSTTHINGSFIRSTTwitter\nFollow First Things First on Instagram: http://foxs.pt/FIRSTTHINGSFIRSTInstagram\n\nFollow Nick Wright on Twitter: http://foxs.pt/NickWrightTwitter\nFollow Chris Broussard on Twitter: https://twitter.com/Chris_Broussard\nFollow Kevin Wildes on Twitter: https://foxs.pt/KevinWildesTwitter\n\nAbout First Things First:\nNick Wright, Chris Broussard, and Kevin Wildes team up on First Things First. The trio offers their take on a bevy of sports stories alongside special guests from across the sports world.\n\nLakers take 3-1 lead over Warriors, LeBron shines & Steph struggles late | NBA | FIRST THINGS FIRST\nhttps://youtu.be/tIDkzxwBMeg\n\nFirst Things First\nhttps://www.youtube.com/c/FirstThingsFirst"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1fZrhbCSlo-UpkTWXcRgDxlCflU",
+      "id": "zLAn7Qp69yA",
+      "snippet": {
+        "publishedAt": "2023-05-09T19:00:32Z",
+        "channelId": "UClyGlKOhDUooPJFy4v_mqPg",
+        "title": "Can A.I. pass a college history test for me?",
+        "description": "I will get the highest test scores of anybody, ever. \n\nStreaming live on Twitch! https://www.twitch.tv/dougdoug\nFull stream recording: https://www.youtube.com/watch?v=JkIrY9meAhs\n\nEdited by CyVoltage! https://www.youtube.com/c/CyVoltage\n\nMy 2nd Channel: http://bit.ly/dougdoug2\nTwitter: https://twitter.com/DougDougFood\n\nMore DugDug:\nLatest Uploads: https://www.youtube.com/watch?v=rp4cH7mb4X4&list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d&index=2\nDougDoug Challenges: https://www.youtube.com/playlist?list=PLzTxt5iYdhzh_SW60_g3HPVjBupwUZOFA\nPopular Videos: https://www.youtube.com/playlist?list=PLzTxt5iYdhzgrLpm-SQNNAVOw0gVs8Iu_\n\nMusic Credits (in order of appearance):\n- Mario & Sonic at the Sochi 2014 Olympic Winter Games - Groove Pipe Snowboard (Mushroom BridgeCity)\n- Mario Kart 8 - Dolphin Shoals\n- Smash Bros. Brawl - Snake Eater (Instrumental)\n- Smash Bros. Ultimate - Tourney Battle List\n- Winter - Vivaldi\n- Miitopia - Battle (World 4)\n- Super Mario Odyssey - Staff Roll\n- Guilty Gear Strive - Countermove\n- Mario Kart 8 - Grand Prix Recap (SFX)\n- Tekken 5 - Moonlit Wilderness\n- Star Wars Republic Commando - Vode An\n- Ring Fit Adventure - Fit Boss Battle\n- Super Mario Odyssey - The Odyssey's First Takeoff\n- Tekken 4 - Bit Crusher\n- Xenoblade Chronicles 3 - A Formidable Enemy\n- Smash Bros. Ultimate - Vampire Killer (Castlevania Judgement)\n- Gran Turismo 3 - Light Velocity\n- Smash Bros. Wii U - Jogging Countdown\n- Bayonetta - Image Song Prototype A\n- Xenoblade Chronicles 3 - Colony 9\n- Paper Mario The Origami King - Giant Fan of Bonehead Island\n- Kirby Air Ride - City Trial\n- Smash Bros. Ultimate - Battle! (Trainer) (Pokémon X & Y)\n- Miitopia - Title Karkaton (Without Mii Singing)\n- FE Three Houses - Between Heaven and Earth (Thunder)\n- Animal Crossing City Folk - 6 PM\n- F-Zero GX - Pico's Theme\n- Zelda Breath of the Wild - Parasail Minigame\n- Xenoblade Chronicles 3 - A Life Sent On (Unison)\n- The Sims 4 Soundtrack - Main Theme\n- Bully - Beach Rumble\n- Tekken 4 - Yoshimitsu Ending\n- Sea of Thieves - Maiden Voyage\n- Smash Bros. Ultimate - Gangplank Galleon Remix\n- Astral Chain - Creation\n- Zelda Skyward Sword - Dejected Groose\n- Bayonetta 2 - Shopping (B)\nhttps://freesound.org/people/Sheyvan/sounds/475221/\n\nAbout DougDoug:\nDoug is a sentient bell pepper who was hired by the FBI to crack gaming challenges and also talk about things with food\n\n#classroom  #artificialintelligence #chatgpt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zLAn7Qp69yA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zLAn7Qp69yA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zLAn7Qp69yA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zLAn7Qp69yA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zLAn7Qp69yA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DougDoug",
+        "tags": [
+          "DougDoug",
+          "DougDoug Youtube Channel",
+          "Channel Youtube DougDoug",
+          "doug doug",
+          "twitch",
+          "twitch chat",
+          "dougdoug twitch chat",
+          "twitch chat plays",
+          "dougdoug twitch",
+          "chatgpt",
+          "ai",
+          "artificial intelligence",
+          "chat gpt",
+          "khan academy",
+          "ap history",
+          "college exam",
+          "historybeard",
+          "novel ai",
+          "study guide",
+          "dougdoug clips",
+          "openai",
+          "machine learning",
+          "tiley"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Can A.I. pass a college history test for me?",
+          "description": "I will get the highest test scores of anybody, ever. \n\nStreaming live on Twitch! https://www.twitch.tv/dougdoug\nFull stream recording: https://www.youtube.com/watch?v=JkIrY9meAhs\n\nEdited by CyVoltage! https://www.youtube.com/c/CyVoltage\n\nMy 2nd Channel: http://bit.ly/dougdoug2\nTwitter: https://twitter.com/DougDougFood\n\nMore DugDug:\nLatest Uploads: https://www.youtube.com/watch?v=rp4cH7mb4X4&list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d&index=2\nDougDoug Challenges: https://www.youtube.com/playlist?list=PLzTxt5iYdhzh_SW60_g3HPVjBupwUZOFA\nPopular Videos: https://www.youtube.com/playlist?list=PLzTxt5iYdhzgrLpm-SQNNAVOw0gVs8Iu_\n\nMusic Credits (in order of appearance):\n- Mario & Sonic at the Sochi 2014 Olympic Winter Games - Groove Pipe Snowboard (Mushroom BridgeCity)\n- Mario Kart 8 - Dolphin Shoals\n- Smash Bros. Brawl - Snake Eater (Instrumental)\n- Smash Bros. Ultimate - Tourney Battle List\n- Winter - Vivaldi\n- Miitopia - Battle (World 4)\n- Super Mario Odyssey - Staff Roll\n- Guilty Gear Strive - Countermove\n- Mario Kart 8 - Grand Prix Recap (SFX)\n- Tekken 5 - Moonlit Wilderness\n- Star Wars Republic Commando - Vode An\n- Ring Fit Adventure - Fit Boss Battle\n- Super Mario Odyssey - The Odyssey's First Takeoff\n- Tekken 4 - Bit Crusher\n- Xenoblade Chronicles 3 - A Formidable Enemy\n- Smash Bros. Ultimate - Vampire Killer (Castlevania Judgement)\n- Gran Turismo 3 - Light Velocity\n- Smash Bros. Wii U - Jogging Countdown\n- Bayonetta - Image Song Prototype A\n- Xenoblade Chronicles 3 - Colony 9\n- Paper Mario The Origami King - Giant Fan of Bonehead Island\n- Kirby Air Ride - City Trial\n- Smash Bros. Ultimate - Battle! (Trainer) (Pokémon X & Y)\n- Miitopia - Title Karkaton (Without Mii Singing)\n- FE Three Houses - Between Heaven and Earth (Thunder)\n- Animal Crossing City Folk - 6 PM\n- F-Zero GX - Pico's Theme\n- Zelda Breath of the Wild - Parasail Minigame\n- Xenoblade Chronicles 3 - A Life Sent On (Unison)\n- The Sims 4 Soundtrack - Main Theme\n- Bully - Beach Rumble\n- Tekken 4 - Yoshimitsu Ending\n- Sea of Thieves - Maiden Voyage\n- Smash Bros. Ultimate - Gangplank Galleon Remix\n- Astral Chain - Creation\n- Zelda Skyward Sword - Dejected Groose\n- Bayonetta 2 - Shopping (B)\nhttps://freesound.org/people/Sheyvan/sounds/475221/\n\nAbout DougDoug:\nDoug is a sentient bell pepper who was hired by the FBI to crack gaming challenges and also talk about things with food\n\n#classroom  #artificialintelligence #chatgpt"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qPTpnEjN_y0Ofdtf2r6_4kNZ72w",
+      "id": "4w1xZA7pX2c",
+      "snippet": {
+        "publishedAt": "2023-05-10T12:59:48Z",
+        "channelId": "UC1Myj674wRVXB9I4c6Hm5zA",
+        "title": "The Crowded Room — Official Trailer | Apple TV+",
+        "description": "The facts are never the whole story. The Crowded Room premieres June 9 on Apple TV+ https://apple.co/_TheCrowdedRoom\n\nThe Crowded Room follows Danny Sullivan (Tom Holland), a man who is arrested following his involvement in a shooting in New York City in 1979. A captivating thriller told through a series of interviews with curious interrogator Rya Goodwin (Amanda Seyfried), Danny’s life story unfolds, revealing elements of the mysterious past that shaped him, and the twists and turns that will lead him to a life-altering revelation. \n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nFacebook: https://facebook.com/AppleTV\nTwitter: https://twitter.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV+ is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV+\n\n#TheCrowdedRoom #Trailer #AppleTV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4w1xZA7pX2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4w1xZA7pX2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4w1xZA7pX2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4w1xZA7pX2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4w1xZA7pX2c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Apple TV",
+        "tags": [
+          "the crowded room",
+          "crowded room",
+          "trailer",
+          "the crowded room trailer",
+          "trailer the crowded room",
+          "official trailer",
+          "the crowded room official trailer",
+          "tom holland",
+          "tom holland crowded room",
+          "the crowded room tom holland",
+          "amanda seyfried",
+          "henry eikenberry",
+          "emmy rossum",
+          "emma laird",
+          "sasha lane",
+          "christopher abbott",
+          "will chase",
+          "novel",
+          "the minds of billy milligan",
+          "daniel keyes",
+          "the crowded room apple tv",
+          "apple tv",
+          "apple",
+          "tv",
+          "apple tv+",
+          "apple tv app",
+          "apple original",
+          "crime",
+          "miniseries",
+          "series"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Crowded Room — Official Trailer | Apple TV+",
+          "description": "The facts are never the whole story. The Crowded Room premieres June 9 on Apple TV+ https://apple.co/_TheCrowdedRoom\n\nThe Crowded Room follows Danny Sullivan (Tom Holland), a man who is arrested following his involvement in a shooting in New York City in 1979. A captivating thriller told through a series of interviews with curious interrogator Rya Goodwin (Amanda Seyfried), Danny’s life story unfolds, revealing elements of the mysterious past that shaped him, and the twists and turns that will lead him to a life-altering revelation. \n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nFacebook: https://facebook.com/AppleTV\nTwitter: https://twitter.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV+ is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV+\n\n#TheCrowdedRoom #Trailer #AppleTV"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0ceq-EgHn7Yuli3mMhgOgnfHwpw",
+      "id": "XZaBkbvteBc",
+      "snippet": {
+        "publishedAt": "2023-05-09T15:00:08Z",
+        "channelId": "UCritGVo7pLJLUS8wEu32vow",
+        "title": "(여자)아이들((G)I-DLE) - 'Allergy' Official Music Video",
+        "description": "(여자)아이들((G)I-DLE) - 'Allergy' Official Music Video\n\nEpisode : '#Allergy'\n\n화려한 피드 속 예쁘고, 섹시하고, 행복한 그들처럼 되고 싶다.\n피드 뒤에 숨겨진 퀸카들의 사정은 알지 못한 채 오늘도 그들의 SNS를 염탐하며 스스로를 사랑하지 못한다.\n지쳐가던 어느 날 문득 찾아온 결심, ‘기필코 나도 퀸카가 되고 말 거야!’\n큰 결심을 하고 찾아간 곳. 이 기나긴 잠에서 깨어나면 나도 웃으며 거울을 마주 볼 수 있을까?\n\n(G)I-DLE Official YouTube: http://www.youtube.com/@official_g_i_dle\n(G)I-DLE Official Twitter: https://twitter.com/G_I_DLE\n(G)I-DLE Official Facebook: https://facebook.com/G.I.DLE.CUBE\n(G)I-DLE Official Instagram: https://instagram.com/official_g_i_dle\n(G)I-DLE Official Weibo: http://weibo.com/cubegidle\n(G)I-DLE Official Weverse: https://weverse.io/gidle\n\n#여자아이들 #GIDLE #I_feel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XZaBkbvteBc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XZaBkbvteBc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XZaBkbvteBc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XZaBkbvteBc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XZaBkbvteBc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "(G)I-DLE (여자)아이들 (Official YouTube Channel)",
+        "tags": [
+          "kpop",
+          "gidle",
+          "(여자)아이들",
+          "(G)I-DLE",
+          "IDLE",
+          "여자아이들",
+          "아이들",
+          "미연",
+          "민니",
+          "수진",
+          "소연",
+          "우기",
+          "슈화",
+          "MIYEON",
+          "MINNIE",
+          "SOOJIN",
+          "SOYEON",
+          "YUQI",
+          "SHUHUA",
+          "큐브",
+          "CUBE"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "(여자)아이들((G)I-DLE) - 'Allergy' Official Music Video",
+          "description": "(여자)아이들((G)I-DLE) - 'Allergy' Official Music Video\n\nEpisode : '#Allergy'\n\n화려한 피드 속 예쁘고, 섹시하고, 행복한 그들처럼 되고 싶다.\n피드 뒤에 숨겨진 퀸카들의 사정은 알지 못한 채 오늘도 그들의 SNS를 염탐하며 스스로를 사랑하지 못한다.\n지쳐가던 어느 날 문득 찾아온 결심, ‘기필코 나도 퀸카가 되고 말 거야!’\n큰 결심을 하고 찾아간 곳. 이 기나긴 잠에서 깨어나면 나도 웃으며 거울을 마주 볼 수 있을까?\n\n(G)I-DLE Official YouTube: http://www.youtube.com/@official_g_i_dle\n(G)I-DLE Official Twitter: https://twitter.com/G_I_DLE\n(G)I-DLE Official Facebook: https://facebook.com/G.I.DLE.CUBE\n(G)I-DLE Official Instagram: https://instagram.com/official_g_i_dle\n(G)I-DLE Official Weibo: http://weibo.com/cubegidle\n(G)I-DLE Official Weverse: https://weverse.io/gidle\n\n#여자아이들 #GIDLE #I_feel"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C0So7gCEkXSMf85FUW9yBFgDivs",
+      "id": "a_DuSbMvOQs",
+      "snippet": {
+        "publishedAt": "2023-05-10T16:00:08Z",
+        "channelId": "UCF-Gj_k3Uk4WnK2UhJcSzYg",
+        "title": "Victoria Monét - Party Girls feat. Buju Banton",
+        "description": "Listen to “Party Girls” feat. Buju Banton here: \nhttps://victoriamonet.lnk.to/partygirls  \n \nFollow Victoria Monét:\nInstagram: https://www.instagram.com/victoriamonet \nTikTok: https://www.tiktok.com/@victoriamonet \nTwitter: https://twitter.com/VictoriaMonet \nFacebook: https://www.facebook.com/VictoriaMonet/ \n \nFollow Buju Banton: \nInstagram: https://www.instagram.com/bujubanton/\nFacebook: https://www.facebook.com/bujuofficial\nTwitter: https://twitter.com/bujubanton\nTik Tok: https://www.tiktok.com/@bujubantonofficial\n \nCredits: \nProduction Company: Black Dog Films \nDirector: Meji Alabi \nExecutive Producer: Jeff Pantaleo \nExecutive Producer: Molly Bohas\nDirector's Rep: Hart Represents \nProducer: Javier Alejandro \nJamaican Line Producer: Carleene Samuels \n1st AD: Jay Will \nDP: Nikita Kuzmenko \nEditor: Vinnie Hobbs \nColorist: Dave Hussey  \nVFX: Max Colt \nVictoria Monét Hair: Dhairius + Davontae Washington\nVictoria Monét MUA: Angie Mar\nVictoria Monét Styling: Kollin Carter\nStyling Assistant: James Carroll\nDancer Styling: Star Burleigh\nManagement: Rachelle Jean-Louis\nProducer: Camille Yorrick of RCA Records\nCreative Director: Paradhime\nArt Director: Jess Severn \nChoreographer: Sean Bankhead \nDancers:\nAhsia Pettigrew \nNatalie Bebko\nBriana Morrison\nRebecca Rosie \nJared Beadle-Allen\nShaquan Reed \nKebahb Glanville \nAntwon Collier \nDevyck Bull \n \nLyrics:\n(Been a long time and now mi say this a big tune in all di world)\nNo more backs on the wall\nCome pull me close to you\nRock me deep into the morning\nCause by sunrise I’ll be gone\nI wanna be leaving with someone\nI’m here for a good time and you know we both want it\n \nAnd plus I like to sightsee and if you invite me I’ll very likely\nPull up where you at\nYou got the right fee or if you entice me end of the night might\nSit this on your lap\nStaring at me too long might get you in trouble\nI’m hypnotizing, I’m just talking facts\nNightly you’ll sight me anywhere you might be\n \nCan’t forget about the Party Girls out lighting up the world\nLet’s hear it for the Party Girls out lighting up the world\nAhhhh\n \n(Now from this tune come on me want everybody in the dancehall right now today\nLighters in the sky\nIf you’re with your lover if you’re with your girl if you’re with your brother if you’re with your sista\nMayday)\n \nGot to get the feeling and the mood right\nWant to know what a true Jamaican night life is like\nAlright, work hard play hard don’t need no sponsor\nLife of the party girl you’re sweet like sugar\nPut the S in sexy girl i love that figure\nWhen you whine and go down come up and bend over\nTrue the party can’t start til’ you deh bout ya (the party can’t start till you get here)\nSexy up jacuzzi pool side and sauna So who make the party start get it hot like fire\nWho makes the rude boys spend a lot of dollars\nGirl pretty in their face they look fine and proper\nDress to impress and every man admire\nNo low vibes let us lift this higher\nBurn down the whole club and set the roof on fire\n \nCan’t forget about the Party Girls out lighting up the world\nLet’s hear it for the Party Girls out lighting up the world\nAhhhh\n \n(Big up to the one Victoria Monét)\n \nAll the party girls all over the world\nAmerican girls London girls African girls island girls Asian girls\nTo the party girls (to the party girls)\nAll around the world (all around the world)\nThat like to twerk\nI like the girls who like to party\nI like the girls with the body (we like the girls who like to party)\nI like the girls who like to party\nI like the girls with the body\n(we like the girls who like to party)\n \n#VictoriaMonét #PartyGirls #BujuBanton",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a_DuSbMvOQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a_DuSbMvOQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a_DuSbMvOQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a_DuSbMvOQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Victoria Monét",
+        "tags": [
+          "victoria",
+          "monét",
+          "victoria monet",
+          "victoria monét",
+          "Victoria Monét",
+          "Victoria Monét Party Girls",
+          "Victoria Monét Buju Banton",
+          "Buju Banton Party Girls",
+          "New Victoria Monét",
+          "Victoria Monét 2023",
+          "Victoria Monét Official Video",
+          "We Might Even Be Falling in Love Victoria Monét",
+          "Ari Lennox",
+          "Summer Walker",
+          "Ella Mai",
+          "Sizzla",
+          "Capleton",
+          "Morgan Heritage",
+          "Reggae",
+          "Afrobeat",
+          "New R&",
+          "Shenseea",
+          "on my mama Victoria monet",
+          "smoke Victoria monet",
+          "some cut challenge"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Victoria Monét - Party Girls feat. Buju Banton",
+          "description": "Listen to “Party Girls” feat. Buju Banton here: \nhttps://victoriamonet.lnk.to/partygirls  \n \nFollow Victoria Monét:\nInstagram: https://www.instagram.com/victoriamonet \nTikTok: https://www.tiktok.com/@victoriamonet \nTwitter: https://twitter.com/VictoriaMonet \nFacebook: https://www.facebook.com/VictoriaMonet/ \n \nFollow Buju Banton: \nInstagram: https://www.instagram.com/bujubanton/\nFacebook: https://www.facebook.com/bujuofficial\nTwitter: https://twitter.com/bujubanton\nTik Tok: https://www.tiktok.com/@bujubantonofficial\n \nCredits: \nProduction Company: Black Dog Films \nDirector: Meji Alabi \nExecutive Producer: Jeff Pantaleo \nExecutive Producer: Molly Bohas\nDirector's Rep: Hart Represents \nProducer: Javier Alejandro \nJamaican Line Producer: Carleene Samuels \n1st AD: Jay Will \nDP: Nikita Kuzmenko \nEditor: Vinnie Hobbs \nColorist: Dave Hussey  \nVFX: Max Colt \nVictoria Monét Hair: Dhairius + Davontae Washington\nVictoria Monét MUA: Angie Mar\nVictoria Monét Styling: Kollin Carter\nStyling Assistant: James Carroll\nDancer Styling: Star Burleigh\nManagement: Rachelle Jean-Louis\nProducer: Camille Yorrick of RCA Records\nCreative Director: Paradhime\nArt Director: Jess Severn \nChoreographer: Sean Bankhead \nDancers:\nAhsia Pettigrew \nNatalie Bebko\nBriana Morrison\nRebecca Rosie \nJared Beadle-Allen\nShaquan Reed \nKebahb Glanville \nAntwon Collier \nDevyck Bull \n \nLyrics:\n(Been a long time and now mi say this a big tune in all di world)\nNo more backs on the wall\nCome pull me close to you\nRock me deep into the morning\nCause by sunrise I’ll be gone\nI wanna be leaving with someone\nI’m here for a good time and you know we both want it\n \nAnd plus I like to sightsee and if you invite me I’ll very likely\nPull up where you at\nYou got the right fee or if you entice me end of the night might\nSit this on your lap\nStaring at me too long might get you in trouble\nI’m hypnotizing, I’m just talking facts\nNightly you’ll sight me anywhere you might be\n \nCan’t forget about the Party Girls out lighting up the world\nLet’s hear it for the Party Girls out lighting up the world\nAhhhh\n \n(Now from this tune come on me want everybody in the dancehall right now today\nLighters in the sky\nIf you’re with your lover if you’re with your girl if you’re with your brother if you’re with your sista\nMayday)\n \nGot to get the feeling and the mood right\nWant to know what a true Jamaican night life is like\nAlright, work hard play hard don’t need no sponsor\nLife of the party girl you’re sweet like sugar\nPut the S in sexy girl i love that figure\nWhen you whine and go down come up and bend over\nTrue the party can’t start til’ you deh bout ya (the party can’t start till you get here)\nSexy up jacuzzi pool side and sauna So who make the party start get it hot like fire\nWho makes the rude boys spend a lot of dollars\nGirl pretty in their face they look fine and proper\nDress to impress and every man admire\nNo low vibes let us lift this higher\nBurn down the whole club and set the roof on fire\n \nCan’t forget about the Party Girls out lighting up the world\nLet’s hear it for the Party Girls out lighting up the world\nAhhhh\n \n(Big up to the one Victoria Monét)\n \nAll the party girls all over the world\nAmerican girls London girls African girls island girls Asian girls\nTo the party girls (to the party girls)\nAll around the world (all around the world)\nThat like to twerk\nI like the girls who like to party\nI like the girls with the body (we like the girls who like to party)\nI like the girls who like to party\nI like the girls with the body\n(we like the girls who like to party)\n \n#VictoriaMonét #PartyGirls #BujuBanton"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "U47DSg5J-S4PIIYl7sNVQwwpFlo",
+      "id": "KSav7HayxtI",
+      "snippet": {
+        "publishedAt": "2023-05-10T16:00:22Z",
+        "channelId": "UCpx_k19S2vUutWUUM9qmXEg",
+        "title": "Imagine Dragons - Crushed (Official Video)",
+        "description": "Our video for Crushed, filmed on the front lines of Ukraine, is out now. It follows Sasha, a young boy who endured months of shelling in his town. \n \nSasha's story is heartbreaking, and there are thousands more like him who desperately need help. Even today, his family is without electricity and other basic utilities. Please consider donating to United24 and raising your voice for this cause.\n \nDonate here: https://donorbox.org/imagine_dragons\n \n‘Mercury – Acts 1 & 2’ is out now: https://ImagineDragons.lnk.to/Mercury\n\nShop Imagine Dragons: https://smarturl.it/ImagineDragonsShop\nSign up for email updates: https://ImagineDragons.lnk.to/EmailList\nCatch Imagine Dragons on tour: http://ImagineDragonsmusic.com/Tour\nJoin the Imagine Dragons Discord: https://ImagineDragons.lnk.to/Discord\n\nFollow Imagine Dragons:\nFacebook: https://ImagineDragons.lnk.to/Facebook\nTwitter: https://ImagineDragons.lnk.to/Twitter\nInstagram: https://ImagineDragons.lnk.to/Instagram\nYoutube: https://ImagineDragons.lnk.to/YouTube\nTikTok: https://ImagineDragons.lnk.to/TikTok\n\nCredits:\nDirector: Ty Arnold\nProducer: Ty Arnold, Roman Ostrovskyi, and Igor Shcherbyna\nProduction company: Black Box Films\n\nLyrics:\nI suppose she’s supposed to be exactly what they want her to be\nSo pretty in pink\nNecklace and ring, don’t be heard\nJust be seen\nBut that’s not who I am\nShe said I can feel, I can feel too much\nAnd I wish they’d go away, go away\nCause it’s crushing me\nIt’s crushing me\n\nDon’t you know that you don’t have a say and the scarlet “A” on\nYour neck so pretty in red, eyes are all dead\nWhat they haven’t said gets stuck in your head\nThe silence is deafening and your heart is bleeding out\nBut they don’t care, no they never cared at all\nThey never cared at all\nThat’s not who I am\n\nShe said I can feel, I can feel too much\nAnd I wish they’d go away, go away\nCause its crushing me\nIt’s crushing me\nIt’s crushing me\nIt’s crushing me\nShe just wants to be free, take it or leave it\n\nEyes like the sunrise\nColorful rainbow\n\nShe said I can feel, I can feel too much\nAnd I wish it’d go away, go away\nCause they’re crushing me\nThey’re crushing me\n\n(I can feel, I can feel too much\nThey’re crushing me\nI can feel, I can feel too much\nOh they’re crushing me)\n\nCrushing me\nCrash down on me\nCrash down on me\n\n#ImagineDragons #Crushed\n\nMusic video by Imagine Dragons performing Crushed. © 2023 KIDinaKORNER/Interscope Records\n\nhttp://vevo.ly/0KiwUp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KSav7HayxtI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KSav7HayxtI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KSav7HayxtI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KSav7HayxtI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KSav7HayxtI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ImagineDragonsVEVO",
+        "tags": [
+          "Imagine",
+          "Dragons",
+          "Crushed",
+          "KIDinaKORNER/Interscope",
+          "Records",
+          "Alternative",
+          "Imagine Dragons",
+          "Mercury",
+          "Ukraine",
+          "U24",
+          "Dan Reynolds",
+          "Rebuild Ukraine",
+          "Power of Unity Summit",
+          "Mercury Acts",
+          "new Imagine Dragons"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Imagine Dragons - Crushed (Official Video)",
+          "description": "Our video for Crushed, filmed on the front lines of Ukraine, is out now. It follows Sasha, a young boy who endured months of shelling in his town. \n \nSasha's story is heartbreaking, and there are thousands more like him who desperately need help. Even today, his family is without electricity and other basic utilities. Please consider donating to United24 and raising your voice for this cause.\n \nDonate here: https://donorbox.org/imagine_dragons\n \n‘Mercury – Acts 1 & 2’ is out now: https://ImagineDragons.lnk.to/Mercury\n\nShop Imagine Dragons: https://smarturl.it/ImagineDragonsShop\nSign up for email updates: https://ImagineDragons.lnk.to/EmailList\nCatch Imagine Dragons on tour: http://ImagineDragonsmusic.com/Tour\nJoin the Imagine Dragons Discord: https://ImagineDragons.lnk.to/Discord\n\nFollow Imagine Dragons:\nFacebook: https://ImagineDragons.lnk.to/Facebook\nTwitter: https://ImagineDragons.lnk.to/Twitter\nInstagram: https://ImagineDragons.lnk.to/Instagram\nYoutube: https://ImagineDragons.lnk.to/YouTube\nTikTok: https://ImagineDragons.lnk.to/TikTok\n\nCredits:\nDirector: Ty Arnold\nProducer: Ty Arnold, Roman Ostrovskyi, and Igor Shcherbyna\nProduction company: Black Box Films\n\nLyrics:\nI suppose she’s supposed to be exactly what they want her to be\nSo pretty in pink\nNecklace and ring, don’t be heard\nJust be seen\nBut that’s not who I am\nShe said I can feel, I can feel too much\nAnd I wish they’d go away, go away\nCause it’s crushing me\nIt’s crushing me\n\nDon’t you know that you don’t have a say and the scarlet “A” on\nYour neck so pretty in red, eyes are all dead\nWhat they haven’t said gets stuck in your head\nThe silence is deafening and your heart is bleeding out\nBut they don’t care, no they never cared at all\nThey never cared at all\nThat’s not who I am\n\nShe said I can feel, I can feel too much\nAnd I wish they’d go away, go away\nCause its crushing me\nIt’s crushing me\nIt’s crushing me\nIt’s crushing me\nShe just wants to be free, take it or leave it\n\nEyes like the sunrise\nColorful rainbow\n\nShe said I can feel, I can feel too much\nAnd I wish it’d go away, go away\nCause they’re crushing me\nThey’re crushing me\n\n(I can feel, I can feel too much\nThey’re crushing me\nI can feel, I can feel too much\nOh they’re crushing me)\n\nCrushing me\nCrash down on me\nCrash down on me\n\n#ImagineDragons #Crushed\n\nMusic video by Imagine Dragons performing Crushed. © 2023 KIDinaKORNER/Interscope Records\n\nhttp://vevo.ly/0KiwUp"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "c-gqaj2RVAJufLnWX6VCzEIvSEI",
+      "id": "dG91B3hHyY4",
+      "snippet": {
+        "publishedAt": "2023-05-08T22:00:15Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "MEG 2: THE TRENCH - OFFICIAL TRAILER",
+        "description": "They’re back for seconds. #Meg2 only in theaters August 4.\n\nGet ready for the ultimate adrenaline rush this summer in “Meg 2: The Trench,” a literally larger-than-life thrill ride that supersizes the 2018 blockbuster and takes the action to higher heights and even greater depths with multiple massive Megs and so much more! Dive into uncharted waters with Jason Statham and global action icon Wu Jing as they lead a daring research team on an exploratory dive into the deepest depths of the ocean. Their voyage spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival. Pitted against colossal Megs and relentless environmental plunderers, our heroes must outrun, outsmart, and outswim their merciless predators in a pulse-pounding race against time. Immerse yourself in the most electrifying cinematic experience of the year with “Meg 2: The Trench” – where the depths of the ocean are matched only by the heights of sheer, unstoppable excitement!\n\nWarner Bros. Pictures and CMC Pictures present “Meg 2: The Trench,” with Statham and Jing headlining an ensemble cast that also includes Sophia Cai (“The Meg”), Page Kennedy (“The Meg”), Sergio Peris-Mencheta (“Rambo: Last Blood”), Skyler Samuels (“The Gifted”), and Cliff Curtis (“Avatar” franchise).\n“Meg 2: The Trench” is directed by Ben Wheatley (“In the Earth,” “Free Fire”), from a screenplay by Jon Hoeber & Erich Hoeber (“The Meg,” “Transformers: Rise of the Beasts”) and Dean Georgaris (“The Meg,” “Lara Croft: Toom Raider – The Cradle of Life”), and a screen story by Dean Georgaris and Jon Hoeber & Erich Hoeber, based on the novel The Trench by Steve Alten. The film is produced by Lorenzo di Bonaventura (“The Meg,” “Bumblebee”) and Belle Avery (“The Meg,” “Before the Devil Knows You’re Dead”), and executive produced by Jason Statham, Cate Adams, Ruigang Li, Catherine Xujun Ying, Wu Jing, E. Bennett Walsh, Erik Howsam, Gerald R. Molen and Randy Greenberg. \n\nJoining director Wheatley behind the camera are director of photography Haris Zambarloukous (“Belfast,” “Murder on the Orient Express”), production designer Chris Lowe (“The Gray Man,” “No Time to Die”) and editor Jonathan Amos (“Baby Driver,” “Paddington 2”). The visual effects supervisor is Pete Bebb (“Fantastic Beasts and Where to Find Them,” “Inception”), and costume designer is Lindsay Pugh (“The Matrix Resurrections,” “Krypton”). The music is by Harry Gregson-Williams (“The Meg,” “The Martian”).\n\nWarner Bros. Pictures and CMC Pictures present, in association with DF Pictures, a di Bonaventura/Apelles Entertainment, Inc. production, a Ben Wheatley film, “Meg 2: The Trench.” It will be distributed worldwide by Warner Bros. Pictures and is set to open in theaters in North America on August 4, 2023 and internationally beginning 02 August 2023.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dG91B3hHyY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dG91B3hHyY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dG91B3hHyY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dG91B3hHyY4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "tags": [
+          "Belle Avery",
+          "Ben Wheatley",
+          "CMC Pictures",
+          "Cliff Curtis",
+          "Coming Soon",
+          "DF Pictures",
+          "Dean Georgaris",
+          "Erich Hoeber",
+          "Film",
+          "Film Trailer",
+          "Film Warner",
+          "Jason Statham",
+          "Jon Hoeber",
+          "Lorenzo di Bonaventura",
+          "Meg 2: The Trench",
+          "Movie",
+          "Official Trailer",
+          "Page Kennedy",
+          "Sergio Peris-Mencheta",
+          "Sienna Guillory",
+          "Skyler Samuels",
+          "Sophia Cai",
+          "Steve Alten",
+          "Trailer",
+          "Trailer 2023",
+          "WB",
+          "Warner",
+          "Warner Bros",
+          "Warner Brothers",
+          "Warner Media",
+          "Wu Jing",
+          "meg",
+          "shark",
+          "shark attack",
+          "sharks",
+          "the meg"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "MEG 2: THE TRENCH - OFFICIAL TRAILER",
+          "description": "They’re back for seconds. #Meg2 only in theaters August 4.\n\nGet ready for the ultimate adrenaline rush this summer in “Meg 2: The Trench,” a literally larger-than-life thrill ride that supersizes the 2018 blockbuster and takes the action to higher heights and even greater depths with multiple massive Megs and so much more! Dive into uncharted waters with Jason Statham and global action icon Wu Jing as they lead a daring research team on an exploratory dive into the deepest depths of the ocean. Their voyage spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival. Pitted against colossal Megs and relentless environmental plunderers, our heroes must outrun, outsmart, and outswim their merciless predators in a pulse-pounding race against time. Immerse yourself in the most electrifying cinematic experience of the year with “Meg 2: The Trench” – where the depths of the ocean are matched only by the heights of sheer, unstoppable excitement!\n\nWarner Bros. Pictures and CMC Pictures present “Meg 2: The Trench,” with Statham and Jing headlining an ensemble cast that also includes Sophia Cai (“The Meg”), Page Kennedy (“The Meg”), Sergio Peris-Mencheta (“Rambo: Last Blood”), Skyler Samuels (“The Gifted”), and Cliff Curtis (“Avatar” franchise).\n“Meg 2: The Trench” is directed by Ben Wheatley (“In the Earth,” “Free Fire”), from a screenplay by Jon Hoeber & Erich Hoeber (“The Meg,” “Transformers: Rise of the Beasts”) and Dean Georgaris (“The Meg,” “Lara Croft: Toom Raider – The Cradle of Life”), and a screen story by Dean Georgaris and Jon Hoeber & Erich Hoeber, based on the novel The Trench by Steve Alten. The film is produced by Lorenzo di Bonaventura (“The Meg,” “Bumblebee”) and Belle Avery (“The Meg,” “Before the Devil Knows You’re Dead”), and executive produced by Jason Statham, Cate Adams, Ruigang Li, Catherine Xujun Ying, Wu Jing, E. Bennett Walsh, Erik Howsam, Gerald R. Molen and Randy Greenberg. \n\nJoining director Wheatley behind the camera are director of photography Haris Zambarloukous (“Belfast,” “Murder on the Orient Express”), production designer Chris Lowe (“The Gray Man,” “No Time to Die”) and editor Jonathan Amos (“Baby Driver,” “Paddington 2”). The visual effects supervisor is Pete Bebb (“Fantastic Beasts and Where to Find Them,” “Inception”), and costume designer is Lindsay Pugh (“The Matrix Resurrections,” “Krypton”). The music is by Harry Gregson-Williams (“The Meg,” “The Martian”).\n\nWarner Bros. Pictures and CMC Pictures present, in association with DF Pictures, a di Bonaventura/Apelles Entertainment, Inc. production, a Ben Wheatley film, “Meg 2: The Trench.” It will be distributed worldwide by Warner Bros. Pictures and is set to open in theaters in North America on August 4, 2023 and internationally beginning 02 August 2023."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QODeu-lHjI9KwJRbCazN6IEa_Ns",
+      "id": "zFhYJRqz_xk",
+      "snippet": {
+        "publishedAt": "2023-05-09T14:00:42Z",
+        "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
+        "title": "Your Body Killed Cancer 5 Minutes Ago",
+        "description": "Sources & further reading: https://sites.google.com/view/sources-cancervsimmune/\nThis video was partially financed by Gates Ventures. \nIf you want to support this channel and get something nice in return check out our shop: https://kgs.link/shop-176\n\nSomewhere in your body, your immune system just quietly killed one of your own cells, stopping it from becoming cancer, and saving your life. It does that all the time. The vast majority of cancer cells you develop will be killed without you ever noticing. Which is an incredibly hard job because of what cancer cells are: parts of yourself that start to behave as individuals even if it hurts you. \n \nWhat is cancer and how does your body kill it all the time?\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtubeHI\nJapanese:     https://kgs.link/youtubeJA\nKorean:          https://kgs.link/youtubeKO\n\n\nHOW CAN YOU SUPPORT US?\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThis is how we make our living and it would be a pleasure if you support us!\n\nGet Products designed with ❤ https://kgs.link/shop-176  \nJoin the Patreon Bird Army 🐧  https://kgs.link/patreon  \n\n\nDISCUSSIONS & SOCIAL MEDIA\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nTikTok:           https://kgs.link/tiktok\nReddit:            https://kgs.link/reddit\nInstagram:     https://kgs.link/instagram\nTwitter:           https://kgs.link/twitter\nFacebook:      https://kgs.link/facebook\nDiscord:          https://kgs.link/discord\nNewsletter:    https://kgs.link/newsletter\n\n\nOUR VOICE\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThe Kurzgesagt voice is from \nSteve Taylor:  https://kgs.link/youtube-voice\n\n\nOUR MUSIC ♬♪\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n700+ minutes of Kurzgesagt Soundtracks by Epic Mountain:\n\nSpotify:            https://kgs.link/music-spotify\nSoundcloud:   https://kgs.link/music-soundcloud\nBandcamp:     https://kgs.link/music-bandcamp\nYoutube:          https://kgs.link/music-youtube\nFacebook:       https://kgs.link/music-facebook\n\nThe Soundtrack of this video:\nSoundcloud: https://bit.ly/3MaUV6u\nBandcamp: https://bit.ly/42BOSwT\n\nIf you want to help us caption this video, please send subtitles to subtitle@kurzgesagt.org\nYou can find info on what subtitle files work on YouTube here:\nhttps://support.google.com/youtube/answer/2734698?hl=en-GB&ref_topic=7296214\nThank you!\n\n🐦🐧🐤 PATREON BIRD ARMY 🐤🐧🐦\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nMany Thanks to our wonderful Patreons (from http://kgs.link/patreon) who support us every month and made this video possible:\nSean H., Thanatos, Cameron Ladd, Suprafraction, Qassam Musallam, Bleamehuaba, Juri, Junsung Cho, yellyace, Felix, Gary Virta, Imprfct, Jerome Machens, Roz Heiko, Thomas Franke, Johannes Korner, lucaswu, Marcel Scharmann, Lee Redden, Morten, RBRedstone, Becilio Espinola, Don Philly, LangBeni, aycaramba, David Kunushevci, Aaron Elliott, Florian Stucki, Reegge, Florian Freund, WEX071, Teo X796, Atomicnitrogen, sage callisto, 王佳琪, Tómas Aron Jónsson, Geoff Mathis, Charles Morman, XXspartarguruX X, Mar, Jihun Kim, Yerin Kim, Timothy Lee, Hannes Ott, Tom, Nicholas Lee, Teffi Snow, Batman1997, Brett Butler, Yannik, Jacob Woods, Jeffery  Niemuth, Henry Liu, Sol Sun, Mau Maria, Znarnof, Max, Jorgen Slings, Ezequiel Petrocelli, CptSpikes, Gabriel Fierros, Jasra, Yacine, Pavel Plotnikov, E berhard Burlet, Patrick Mann, Alex, SupAwesomeHere, Iván Luis Tapia Pérez, Oscar Guillén Mateu, Dongting Cai, Jeremy Dunham, Dwayne Scherini, Nemo, Ashish Srivastava, Nikolay Karashtranov, TheToCraft, Thomas Curran, Selwyn, ManTheDuck, tristan diamond, Joseph Bell, Antony, Molowitz, Todd Muller, Nicolas Pouillard, Neil Tavares, Brandon_H, Henry Swanson, GandalfBabbano, Janet Kang, Giovanni Machado, Nathan, Plopsi, Musicus Magnus, OshriMakk, Key7, Daniel Hassan, Justin Ruddock, Mr_President_White, Mitch Burke, Henry Liu, How long can a profile name be..., Josh Jones, Hannah White, Feef Anthony, Quim Gil, Stefano Brondi, Ursin Fill",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zFhYJRqz_xk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zFhYJRqz_xk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zFhYJRqz_xk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zFhYJRqz_xk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zFhYJRqz_xk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kurzgesagt – In a Nutshell",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "Your Body Killed Cancer 5 Minutes Ago",
+          "description": "Sources & further reading: https://sites.google.com/view/sources-cancervsimmune/\nThis video was partially financed by Gates Ventures. \nIf you want to support this channel and get something nice in return check out our shop: https://kgs.link/shop-176\n\nSomewhere in your body, your immune system just quietly killed one of your own cells, stopping it from becoming cancer, and saving your life. It does that all the time. The vast majority of cancer cells you develop will be killed without you ever noticing. Which is an incredibly hard job because of what cancer cells are: parts of yourself that start to behave as individuals even if it hurts you. \n \nWhat is cancer and how does your body kill it all the time?\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtubeHI\nJapanese:     https://kgs.link/youtubeJA\nKorean:          https://kgs.link/youtubeKO\n\n\nHOW CAN YOU SUPPORT US?\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThis is how we make our living and it would be a pleasure if you support us!\n\nGet Products designed with ❤ https://kgs.link/shop-176  \nJoin the Patreon Bird Army 🐧  https://kgs.link/patreon  \n\n\nDISCUSSIONS & SOCIAL MEDIA\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nTikTok:           https://kgs.link/tiktok\nReddit:            https://kgs.link/reddit\nInstagram:     https://kgs.link/instagram\nTwitter:           https://kgs.link/twitter\nFacebook:      https://kgs.link/facebook\nDiscord:          https://kgs.link/discord\nNewsletter:    https://kgs.link/newsletter\n\n\nOUR VOICE\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThe Kurzgesagt voice is from \nSteve Taylor:  https://kgs.link/youtube-voice\n\n\nOUR MUSIC ♬♪\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n700+ minutes of Kurzgesagt Soundtracks by Epic Mountain:\n\nSpotify:            https://kgs.link/music-spotify\nSoundcloud:   https://kgs.link/music-soundcloud\nBandcamp:     https://kgs.link/music-bandcamp\nYoutube:          https://kgs.link/music-youtube\nFacebook:       https://kgs.link/music-facebook\n\nThe Soundtrack of this video:\nSoundcloud: https://bit.ly/3MaUV6u\nBandcamp: https://bit.ly/42BOSwT\n\nIf you want to help us caption this video, please send subtitles to subtitle@kurzgesagt.org\nYou can find info on what subtitle files work on YouTube here:\nhttps://support.google.com/youtube/answer/2734698?hl=en-GB&ref_topic=7296214\nThank you!\n\n🐦🐧🐤 PATREON BIRD ARMY 🐤🐧🐦\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nMany Thanks to our wonderful Patreons (from http://kgs.link/patreon) who support us every month and made this video possible:\nSean H., Thanatos, Cameron Ladd, Suprafraction, Qassam Musallam, Bleamehuaba, Juri, Junsung Cho, yellyace, Felix, Gary Virta, Imprfct, Jerome Machens, Roz Heiko, Thomas Franke, Johannes Korner, lucaswu, Marcel Scharmann, Lee Redden, Morten, RBRedstone, Becilio Espinola, Don Philly, LangBeni, aycaramba, David Kunushevci, Aaron Elliott, Florian Stucki, Reegge, Florian Freund, WEX071, Teo X796, Atomicnitrogen, sage callisto, 王佳琪, Tómas Aron Jónsson, Geoff Mathis, Charles Morman, XXspartarguruX X, Mar, Jihun Kim, Yerin Kim, Timothy Lee, Hannes Ott, Tom, Nicholas Lee, Teffi Snow, Batman1997, Brett Butler, Yannik, Jacob Woods, Jeffery  Niemuth, Henry Liu, Sol Sun, Mau Maria, Znarnof, Max, Jorgen Slings, Ezequiel Petrocelli, CptSpikes, Gabriel Fierros, Jasra, Yacine, Pavel Plotnikov, E berhard Burlet, Patrick Mann, Alex, SupAwesomeHere, Iván Luis Tapia Pérez, Oscar Guillén Mateu, Dongting Cai, Jeremy Dunham, Dwayne Scherini, Nemo, Ashish Srivastava, Nikolay Karashtranov, TheToCraft, Thomas Curran, Selwyn, ManTheDuck, tristan diamond, Joseph Bell, Antony, Molowitz, Todd Muller, Nicolas Pouillard, Neil Tavares, Brandon_H, Henry Swanson, GandalfBabbano, Janet Kang, Giovanni Machado, Nathan, Plopsi, Musicus Magnus, OshriMakk, Key7, Daniel Hassan, Justin Ruddock, Mr_President_White, Mitch Burke, Henry Liu, How long can a profile name be..., Josh Jones, Hannah White, Feef Anthony, Quim Gil, Stefano Brondi, Ursin Fill"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MxSagNY7vX5O5o1keWPhHF2Kr5Y",
+      "id": "fMPTSiOuNpA",
+      "snippet": {
+        "publishedAt": "2023-05-08T20:29:34Z",
+        "channelId": "UC0VVYtw21rg2cokUystu2Dw",
+        "title": "I beat Breath of the Wild 100% In a single day",
+        "description": "I did a Legend of Zelda: Breath of the Wild Speedrun in under 20 hours. Did my best to do a \"speedrun explained\" type thing of the 100% Speedrun.\n\nYou should watch me live on Twitch:\nhttps://twitch.tv/Smallant\n\n▶Discord: https://discord.gg/Smallant\n▶Twitter: https://twitter.com/Smallant\n▶Reddit: https://reddit.com/r/Smallant\n▶TikTok: https://tiktok.com/@Smallant\n\n#SmallAnt #Zelda #Speedrun",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fMPTSiOuNpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fMPTSiOuNpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fMPTSiOuNpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fMPTSiOuNpA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fMPTSiOuNpA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SmallAnt",
+        "tags": [
+          "smallant1",
+          "zelda",
+          "speedrun",
+          "botw",
+          "100% botw",
+          "breath of the wild",
+          "100% speedrun",
+          "all koroks",
+          "all shrines",
+          "all memories",
+          "all quests"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I beat Breath of the Wild 100% In a single day",
+          "description": "I did a Legend of Zelda: Breath of the Wild Speedrun in under 20 hours. Did my best to do a \"speedrun explained\" type thing of the 100% Speedrun.\n\nYou should watch me live on Twitch:\nhttps://twitch.tv/Smallant\n\n▶Discord: https://discord.gg/Smallant\n▶Twitter: https://twitter.com/Smallant\n▶Reddit: https://reddit.com/r/Smallant\n▶TikTok: https://tiktok.com/@Smallant\n\n#SmallAnt #Zelda #Speedrun"
+        },
+        "defaultAudioLanguage": "en-CA"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JNIUqCkN6qIospgTZwSYSXzauT0",
+      "id": "scNmYjoR-qM",
+      "snippet": {
+        "publishedAt": "2023-05-09T08:36:06Z",
+        "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
+        "title": "Adipurush (Official Trailer) Hindi | Prabhas | Saif Ali Khan | Kriti Sanon | Om Raut | Bhushan Kumar",
+        "description": "ADIPURUSH \nCELEBRATING VICTORY OF GOOD OVER EVIL\n\nGulshan Kumar and T-Series present\nA T-Series Films and Retrophiles production \nStarring Prabhas, Saif Ali Khan, Kriti Sanon, Sunny Singh,\nDirected by Om Raut.\nProduced by Bhushan Kumar, Krishan Kumar, Om Raut, Prasad Sutar, Rajesh Nair\n\n#Adipurush releases IN THEATRES on 16 June 2023 in IMAX & 3D! \n\nBOOK TICKETS!! Get 2 tickets for the price of 1: https://m.paytm.me/dl_adipurush\n\nWatch it in Hindi, Telugu, Tamil, Kannada, Malayalam.\n___________________________________\nEnjoy & stay connected with us!\n👉 Subscribe to T-Series: http://bit.ly/TSeriesYouTube\n👉 Like us on Facebook: https://www.facebook.com/tseriesmusic\n👉 Follow us on Twitter: https://twitter.com/tseries\n👉 Follow us on Instagram: http://bit.ly/InstagramTseries",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/scNmYjoR-qM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/scNmYjoR-qM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/scNmYjoR-qM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/scNmYjoR-qM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/scNmYjoR-qM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "T-Series",
+        "tags": [
+          "hindi songs new",
+          "bollywood songs 2023",
+          "tseries",
+          "tseries songs",
+          "bollywood romantic songs",
+          "romantic hindi songs",
+          "hindi songs bollywood",
+          "remix hindi songs",
+          "hindi song status",
+          "bollywood dance songs",
+          "Adipurush Teaser",
+          "Adipurush Teaser Event",
+          "Teaser Event",
+          "Aadipurush",
+          "Adipurush",
+          "Prabhas",
+          "Kriti Sanon",
+          "Saif Ali Khan",
+          "Prabhas as Adipurush",
+          "Adipurush Hindi",
+          "Hindi Adipurush",
+          "Hindi official trailer",
+          "Official trailer",
+          "Adipurush (Official Trailer) Hindi",
+          "Movies 2023"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Adipurush (Official Trailer) Hindi | Prabhas | Saif Ali Khan | Kriti Sanon | Om Raut | Bhushan Kumar",
+          "description": "ADIPURUSH \nCELEBRATING VICTORY OF GOOD OVER EVIL\n\nGulshan Kumar and T-Series present\nA T-Series Films and Retrophiles production \nStarring Prabhas, Saif Ali Khan, Kriti Sanon, Sunny Singh,\nDirected by Om Raut.\nProduced by Bhushan Kumar, Krishan Kumar, Om Raut, Prasad Sutar, Rajesh Nair\n\n#Adipurush releases IN THEATRES on 16 June 2023 in IMAX & 3D! \n\nBOOK TICKETS!! Get 2 tickets for the price of 1: https://m.paytm.me/dl_adipurush\n\nWatch it in Hindi, Telugu, Tamil, Kannada, Malayalam.\n___________________________________\nEnjoy & stay connected with us!\n👉 Subscribe to T-Series: http://bit.ly/TSeriesYouTube\n👉 Like us on Facebook: https://www.facebook.com/tseriesmusic\n👉 Follow us on Twitter: https://twitter.com/tseries\n👉 Follow us on Instagram: http://bit.ly/InstagramTseries"
+        },
+        "defaultAudioLanguage": "hi"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wMpEBM7rurUBByx1Alx17Nf-y2g",
+      "id": "EWl5AXd9a64",
+      "snippet": {
+        "publishedAt": "2023-05-10T01:30:04Z",
+        "channelId": "UCAvjYgmwadC682OoC4Cc6TQ",
+        "title": "The Jordan Poole Party IS OVER In Golden State",
+        "description": "The Jordan Poole Party IS OVER For The Golden State Warriors As Gilbert Arenas and the Gils Arena Crew discusses Jordan Poole's Poor Play during the NBA Playoffs and what The Warriors should do to address their problematic 6th man. \n\nSign up for Underdog Fantasy HERE with promo code GILSARENA and get a $100 first deposit match: https://play.underdogfantasy.com/p-gil's-arena\n\nGil’s Arena premieres every Tuesday, Wednesday and Thursday at 3:00pm PT / 6:00pm ET.\n\nSUBSCRIBE:\n / @gilsarena  \n\nAPPAREL PARTNERS\n\nTUFF CROWD: https://www.tuffcrowd.com/\nADIDAS: https://www.adidas.com/us/agent-gil-restomod-basketball-shoes/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EWl5AXd9a64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EWl5AXd9a64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EWl5AXd9a64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EWl5AXd9a64/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EWl5AXd9a64/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gil's Arena",
+        "tags": [
+          "jordan poole",
+          "jordan poole highlights",
+          "jordan poole 6th man",
+          "Jordan poole draymond green",
+          "nba playoffs",
+          "nba playoffs highlights",
+          "nba playoffs live",
+          "nba",
+          "nba news",
+          "nba live",
+          "golden state warriors vs los angeles lakers",
+          "warriors highlights",
+          "golden state warriors",
+          "warriors news",
+          "jordan poole steph curry",
+          "steph curry",
+          "steph curry highlights",
+          "nba podcast",
+          "gilbert arenas",
+          "gilbert arenas podcast",
+          "nba on espn",
+          "nba on tnt",
+          "undisputed",
+          "gilsarena",
+          "gilbertarenas",
+          "underdog",
+          "underdogfantasy"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "The Jordan Poole Party IS OVER In Golden State",
+          "description": "The Jordan Poole Party IS OVER For The Golden State Warriors As Gilbert Arenas and the Gils Arena Crew discusses Jordan Poole's Poor Play during the NBA Playoffs and what The Warriors should do to address their problematic 6th man. \n\nSign up for Underdog Fantasy HERE with promo code GILSARENA and get a $100 first deposit match: https://play.underdogfantasy.com/p-gil's-arena\n\nGil’s Arena premieres every Tuesday, Wednesday and Thursday at 3:00pm PT / 6:00pm ET.\n\nSUBSCRIBE:\n / @gilsarena  \n\nAPPAREL PARTNERS\n\nTUFF CROWD: https://www.tuffcrowd.com/\nADIDAS: https://www.adidas.com/us/agent-gil-restomod-basketball-shoes/"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tsd4ovcfVWmDMvue_DiGi0ZMkEw",
+      "id": "IzQ3gFRj0Bc",
+      "snippet": {
+        "publishedAt": "2023-05-10T12:02:55Z",
+        "channelId": "UC415bOPUcGSamy543abLmRA",
+        "title": "The Big Lie About Nuclear Waste",
+        "description": "What if we could actually USE nuclear waste?\nCheck out Storyblocks and sign up here for great footage: https://storyblocks.com/cleoabram \n\nSubscribe to support optimistic tech content: https://www.youtube.com/cleoabram?sub_confirmation=1\n\nWatch Johnny’s explainer on nuclear power here - and subscribe to his channel! https://youtu.be/QzTgZ6kOEM8\n\nNuclear waste is scary. Maybe you’ve seen it as glowing green goop in The Simpsons, or as a  radioactive threat on the news. Either way, you likely know it has been a major block to the use and improvement of nuclear power. Over the last few decades, experts, politicians and the public have had heated debates over what to do with this radioactive material created by nuclear power plants.\n\nBut what if there were a way to not just store nuclear waste, but actually USE it? \n\nThis video is about the effort to make electricity out of nuclear waste. Really. It turns out, we developed the tools to do this decades ago. This story is about a technology we left behind and the people who want to bring it back.\n\nFor this video, I had the privilege of visiting one of the largest and oldest research centers in the US, the Argonne National Laboratory. I’m incredibly grateful to the researchers and staff I met there, and for their time in showing me their work. I also had the opportunity to speak with representatives from Oklo, a company working on new forms of nuclear power, including recycling nuclear waste as fuel. One of the best parts of making Huge If True is meeting and learning from people pushing what we can do in the hopes of improving the world for everyone else.\n\nChapters: \n00:00 Nuclear waste isn’t what I thought\n02:21 How I got obsessed\n03:27 How much energy is in nuclear waste?\n05:31 Thank you Storyblocks!\n06:20 How do you get electricity?\n06:50 What is uranium?\n07:28 How does a nuclear reaction work?\n08:05 Why is nuclear waste dangerous?\n08:40 What do we do with nuclear waste?\n09:35 How do you make electricity from nuclear waste?\n11:21 Why doesn’t the US reuse nuclear fuel?\n12:20 Is recycling waste feasible?\n13:41 What is Huge If True?\n\nCorrections:\n07:09 The number refers to the total number of nucleons (either a proton or a neutron) in the atom, not the neutrons alone. A U-235 atom contains 92 protons and 143 neutrons (an atomic mass of 235). The U-238 atom also has 92 protons but has 146 neutrons (an atomic mass of 238). I should have said these *differ* by the number of neutrons in the atom. Thanks to the commenters who pointed this out!\n\nYou can find me on TikTok here for short, fun tech explainers: https://www.tiktok.com/@cleoabram \nYou can find me on Instagram here for more personal stories: https://www.instagram.com/cleoabram \nYou can find me on Twitter here for thoughts, threads and curated news: https://twitter.com/cleoabram \n\nBio:\nCleo Abram is an Emmy-nominated independent video journalist. On her show, Huge If True, Cleo explores complex technology topics with rigor and optimism, helping her audience understand the world around them and see positive futures they can help build. Before going independent, Cleo was a video producer for Vox. She wrote and directed the Coding and Diamonds episodes of Vox’s Netflix show, Explained. She produced videos for Vox’s popular YouTube channel, was the host and senior producer of Vox’s first ever daily show, Answered, and was co-host and producer of Vox’s YouTube Originals show, Glad You Asked. \n\nAdditional reading and watching:\n- Johnny’s video on nuclear power: https://youtu.be/QzTgZ6kOEM8\n- My previous video for Vox on nuclear reactors shutting down: https://youtu.be/KC7YD98HixM \n- “The Nuclear Waste Problem” by Wendover Productions: https://youtu.be/uU3kLBo_ruo\n- “Nuclear Waste: What Do We Do With It?” by Sabine Hossenfelder: https://youtu.be/aDUvCLAp0uU\n- “What Happens to Nuclear Waste?” by The Infographics Show: https://youtu.be/imsRLscqTW0 \n- “Nuclear Waste Is Manageable. We Just Have To Do It.” by Joe Scott https://youtu.be/96et8ZGsxJY\n- “Finland Might Have Solved Nuclear Power’s Biggest Problem” by The B1M: https://youtu.be/kYpiK3W-g_0\n- “The energy in nuclear waste could power the U.S. for 100 years, but the technology was never commercialized” CNBC https://www.cnbc.com/2022/06/02/nuclear-waste-us-could-power-the-us-for-100-years.html\n- “Nuclear Power Policy,” NRC 1977: https://www.nrc.gov/docs/ML1209/ML120960615.pdf \n\nVox: https://www.vox.com/authors/cleo-abram\nIMDb: https://www.imdb.com/name/nm10108242/ \n\nGear I use: \nCamera: Sony A7SIII\nLens: Sony 16–35 mm F2.8 GM and 35mm prime\nAudio: Sennheiser SK AVX\n\nMusic: Musicbed + Tom Fox\n\n—\nWelcome to the joke down low:\n\nWhy did the light bulb fail his math quiz?\nHe wasn’t too bright.\n\nLeave a comment with the word “bright” in it to let me know you’re a real one :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IzQ3gFRj0Bc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IzQ3gFRj0Bc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IzQ3gFRj0Bc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IzQ3gFRj0Bc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IzQ3gFRj0Bc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cleo Abram",
+        "tags": ["Cleo Abram", "Cloe Abram", "Cleo Abrams", "Johnny Harris"],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Big Lie About Nuclear Waste",
+          "description": "What if we could actually USE nuclear waste?\nCheck out Storyblocks and sign up here for great footage: https://storyblocks.com/cleoabram \n\nSubscribe to support optimistic tech content: https://www.youtube.com/cleoabram?sub_confirmation=1\n\nWatch Johnny’s explainer on nuclear power here - and subscribe to his channel! https://youtu.be/QzTgZ6kOEM8\n\nNuclear waste is scary. Maybe you’ve seen it as glowing green goop in The Simpsons, or as a  radioactive threat on the news. Either way, you likely know it has been a major block to the use and improvement of nuclear power. Over the last few decades, experts, politicians and the public have had heated debates over what to do with this radioactive material created by nuclear power plants.\n\nBut what if there were a way to not just store nuclear waste, but actually USE it? \n\nThis video is about the effort to make electricity out of nuclear waste. Really. It turns out, we developed the tools to do this decades ago. This story is about a technology we left behind and the people who want to bring it back.\n\nFor this video, I had the privilege of visiting one of the largest and oldest research centers in the US, the Argonne National Laboratory. I’m incredibly grateful to the researchers and staff I met there, and for their time in showing me their work. I also had the opportunity to speak with representatives from Oklo, a company working on new forms of nuclear power, including recycling nuclear waste as fuel. One of the best parts of making Huge If True is meeting and learning from people pushing what we can do in the hopes of improving the world for everyone else.\n\nChapters: \n00:00 Nuclear waste isn’t what I thought\n02:21 How I got obsessed\n03:27 How much energy is in nuclear waste?\n05:31 Thank you Storyblocks!\n06:20 How do you get electricity?\n06:50 What is uranium?\n07:28 How does a nuclear reaction work?\n08:05 Why is nuclear waste dangerous?\n08:40 What do we do with nuclear waste?\n09:35 How do you make electricity from nuclear waste?\n11:21 Why doesn’t the US reuse nuclear fuel?\n12:20 Is recycling waste feasible?\n13:41 What is Huge If True?\n\nCorrections:\n07:09 The number refers to the total number of nucleons (either a proton or a neutron) in the atom, not the neutrons alone. A U-235 atom contains 92 protons and 143 neutrons (an atomic mass of 235). The U-238 atom also has 92 protons but has 146 neutrons (an atomic mass of 238). I should have said these *differ* by the number of neutrons in the atom. Thanks to the commenters who pointed this out!\n\nYou can find me on TikTok here for short, fun tech explainers: https://www.tiktok.com/@cleoabram \nYou can find me on Instagram here for more personal stories: https://www.instagram.com/cleoabram \nYou can find me on Twitter here for thoughts, threads and curated news: https://twitter.com/cleoabram \n\nBio:\nCleo Abram is an Emmy-nominated independent video journalist. On her show, Huge If True, Cleo explores complex technology topics with rigor and optimism, helping her audience understand the world around them and see positive futures they can help build. Before going independent, Cleo was a video producer for Vox. She wrote and directed the Coding and Diamonds episodes of Vox’s Netflix show, Explained. She produced videos for Vox’s popular YouTube channel, was the host and senior producer of Vox’s first ever daily show, Answered, and was co-host and producer of Vox’s YouTube Originals show, Glad You Asked. \n\nAdditional reading and watching:\n- Johnny’s video on nuclear power: https://youtu.be/QzTgZ6kOEM8\n- My previous video for Vox on nuclear reactors shutting down: https://youtu.be/KC7YD98HixM \n- “The Nuclear Waste Problem” by Wendover Productions: https://youtu.be/uU3kLBo_ruo\n- “Nuclear Waste: What Do We Do With It?” by Sabine Hossenfelder: https://youtu.be/aDUvCLAp0uU\n- “What Happens to Nuclear Waste?” by The Infographics Show: https://youtu.be/imsRLscqTW0 \n- “Nuclear Waste Is Manageable. We Just Have To Do It.” by Joe Scott https://youtu.be/96et8ZGsxJY\n- “Finland Might Have Solved Nuclear Power’s Biggest Problem” by The B1M: https://youtu.be/kYpiK3W-g_0\n- “The energy in nuclear waste could power the U.S. for 100 years, but the technology was never commercialized” CNBC https://www.cnbc.com/2022/06/02/nuclear-waste-us-could-power-the-us-for-100-years.html\n- “Nuclear Power Policy,” NRC 1977: https://www.nrc.gov/docs/ML1209/ML120960615.pdf \n\nVox: https://www.vox.com/authors/cleo-abram\nIMDb: https://www.imdb.com/name/nm10108242/ \n\nGear I use: \nCamera: Sony A7SIII\nLens: Sony 16–35 mm F2.8 GM and 35mm prime\nAudio: Sennheiser SK AVX\n\nMusic: Musicbed + Tom Fox\n\n—\nWelcome to the joke down low:\n\nWhy did the light bulb fail his math quiz?\nHe wasn’t too bright.\n\nLeave a comment with the word “bright” in it to let me know you’re a real one :)"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Nl5Dwk7Y-DJD5Z-AfWAXCBdbb0Y",
+      "id": "I63puVDdXms",
+      "snippet": {
+        "publishedAt": "2023-05-10T03:15:28Z",
+        "channelId": "UCNZyLULUQBp5e9Q1cKtvk6Q",
+        "title": "Trump reacts to verdict in sexual abuse, defamation case",
+        "description": "A jury Tuesday found former president Donald Trump liable for sexual abuse and defaming writer E. Jean Carroll. The jurors rejected Carroll's claims that she was raped. CBS2's Dick Brennan has new reaction from Trump and details on the decision.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I63puVDdXms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I63puVDdXms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I63puVDdXms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I63puVDdXms/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I63puVDdXms/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CBS New York",
+        "tags": ["CBS2 News At 11", "Donald Trump", "E. Jean Carroll"],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Trump reacts to verdict in sexual abuse, defamation case",
+          "description": "A jury Tuesday found former president Donald Trump liable for sexual abuse and defaming writer E. Jean Carroll. The jurors rejected Carroll's claims that she was raped. CBS2's Dick Brennan has new reaction from Trump and details on the decision."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "s7Z9FOdR3wP4B2RGD1U0WVflaHM",
+      "id": "z6Psdnu6t94",
+      "snippet": {
+        "publishedAt": "2023-05-09T20:04:32Z",
+        "channelId": "UCvtRTOMP2TqYqu51xNrqAzg",
+        "title": "FaZe Rug MEETS MY GIRLFRIEND for the First Time…",
+        "description": "@rug meets my girlfriend… drop a like!\n\nSUBSCRIBE to BRAWADIS ▶ http://bit.ly/SubscribeToBrawadis\r\n\r\nFOLLOW ME ON SOCIAL\r\n▶ Twitter: https://twitter.com/Brawadis\r\n▶ Instagram: https://www.instagram.com/brawadis/\r\n▶ Snapchat: brawadis\r\n\r\nHi! I’m Brandon Awadis and I like to make dope vlogs, pranks, reactions, challenges and basketball videos. Don’t forget to subscribe and come be a part of the BrawadSquad!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z6Psdnu6t94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z6Psdnu6t94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z6Psdnu6t94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z6Psdnu6t94/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z6Psdnu6t94/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Brawadis",
+        "tags": [
+          "brawadis",
+          "prank",
+          "basketball",
+          "skits",
+          "ghost",
+          "funny videos",
+          "vlog",
+          "vlogging",
+          "NBA",
+          "browadis",
+          "challenges",
+          "bmw i8",
+          "faze rug",
+          "faze rug brother",
+          "mama rug and papa rug"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "FaZe Rug MEETS MY GIRLFRIEND for the First Time…",
+          "description": "@rug meets my girlfriend… drop a like!\n\nSUBSCRIBE to BRAWADIS ▶ http://bit.ly/SubscribeToBrawadis\r\n\r\nFOLLOW ME ON SOCIAL\r\n▶ Twitter: https://twitter.com/Brawadis\r\n▶ Instagram: https://www.instagram.com/brawadis/\r\n▶ Snapchat: brawadis\r\n\r\nHi! I’m Brandon Awadis and I like to make dope vlogs, pranks, reactions, challenges and basketball videos. Don’t forget to subscribe and come be a part of the BrawadSquad!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5-pL1NmIC5hTsZdSTlmLaJ8iDQ8",
+      "id": "VpEITQDQRec",
+      "snippet": {
+        "publishedAt": "2023-05-10T02:04:43Z",
+        "channelId": "UCiGm_E4ZwYSHV3bcW1pnSeQ",
+        "title": "Billie Eilish - hotline (edit)",
+        "description": "Listen to “hotline (edit)”, out now: https://BillieEilish.lnk.to/hotline\n \nFollow Billie Eilish:\nFacebook: https://BillieEilish.lnk.to/Facebook​​\nInstagram: https://BillieEilish.lnk.to/Instagram​​\nTwitter: https://BillieEilish.lnk.to/Twitter​​\nTikTok: https://BillieEilish.lnk.to/TikTok​\nYouTube: https://youtube.com/BillieEilish\nEmail: http://smarturl.it/BillieEilishEmail​​​​\nStore: http://smarturl.it/BillieEilishStore",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VpEITQDQRec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VpEITQDQRec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VpEITQDQRec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VpEITQDQRec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VpEITQDQRec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Billie Eilish",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Billie Eilish - hotline (edit)",
+          "description": "Listen to “hotline (edit)”, out now: https://BillieEilish.lnk.to/hotline\n \nFollow Billie Eilish:\nFacebook: https://BillieEilish.lnk.to/Facebook​​\nInstagram: https://BillieEilish.lnk.to/Instagram​​\nTwitter: https://BillieEilish.lnk.to/Twitter​​\nTikTok: https://BillieEilish.lnk.to/TikTok​\nYouTube: https://youtube.com/BillieEilish\nEmail: http://smarturl.it/BillieEilishEmail​​​​\nStore: http://smarturl.it/BillieEilishStore"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
