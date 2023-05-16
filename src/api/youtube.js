@@ -19,6 +19,7 @@ export default class Youtube {
           part: "snippet",
           maxResults: 25,
           q: keyword,
+          type: "video",
         },
       })
       .then((res) => res.data.items)
