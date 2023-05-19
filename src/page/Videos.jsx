@@ -11,11 +11,12 @@ export default function Videos() {
     isLoading,
     error,
     data: videos,
-  } = useQuery(["videos", keyword], () => youtube.search(keyword));
+  } = useQuery(["videos", keyword], () => youtube.search(keyword), {
+    staleTime: 1000 * 60 * 1,
+  });
 
   return (
     <>
-      <div>Videos {keyword ? `🔎${keyword}` : `🔥`}</div>
       {isLoading && <div>Loading...</div>}
       {error && <div>Error: {error.message}</div>}
       {videos && (
