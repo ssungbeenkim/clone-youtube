@@ -21,7 +21,7 @@ export default function SerchHeader() {
     <header className="mb-4 flex w-full border-b border-zinc-600 p-4 text-2xl">
       <Link to="/" className="flex items-center">
         <BsYoutube className="text-4xl text-brand" />
-        <h1 className="ml-2 text-3xl font-bold">Youtube</h1>
+        <h1 className="ml-2 text-3xl font-bold">Broken Youtube</h1>
       </Link>
       <form onSubmit={handleSubmit} className="flex w-full justify-center">
         <input

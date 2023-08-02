@@ -9,15 +9,17 @@ export default function VideoCard({ video, type }) {
   return (
     <li
       className={isList ? "m-2 flex gap-1" : ""}
-      onClick={() => { 
+      onClick={() => {
         navigate(`/videos/watch/${video.id}`, { state: { video } });
       }}
     >
-      <img
-        className={isList ? "mr-2 w-60" : "w-full"}
-        src={thumbnails.medium.url}
-        alt={title}
-      />
+      {1 < 0 && ( // unable thumbnails
+        <img
+          className={isList ? "mr-2 w-60" : "w-full"}
+          src={thumbnails.medium.url}
+          alt={title}
+        />
+      )}
       <div>
         <p className="my-2 line-clamp-2 font-semibold">{title}</p>
         <p className="text-sm opacity-80">{channelTitle}</p>

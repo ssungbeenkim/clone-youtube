@@ -1,4 +1,4 @@
-# 내가 쓰려고 만든 추천 알고리즘과 계정 정보 없는 유튜브
+# 도파민 프리 Youtube
 
 <img width="1051" alt="Screenshot 2023-06-30 at 1 17 22 AM" src="https://github.com/wandakim/Youtube-Clone/assets/74309458/945b7021-7f54-43b4-a8d9-6380fb96c578">
 <img width="1047" alt="Screenshot 2023-06-30 at 1 16 58 AM" src="https://github.com/wandakim/Youtube-Clone/assets/74309458/29b4a665-8ca6-4202-a61a-dfabb6f5b584">
