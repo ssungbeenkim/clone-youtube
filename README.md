@@ -7,7 +7,7 @@
 
 ## 이 프로젝트는
 
-- [배포 링크](https://incredible-cascaron-f6f5f2.netlify.app/)
+- [배포 링크](https://main--incredible-cascaron-f6f5f2.netlify.app/)
 
 <br />
  
