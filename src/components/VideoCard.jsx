@@ -13,13 +13,12 @@ export default function VideoCard({ video, type }) {
         navigate(`/videos/watch/${video.id}`, { state: { video } });
       }}
     >
-      {1 < 0 && ( // unable thumbnails
-        <img
-          className={isList ? "mr-2 w-60" : "w-full"}
-          src={thumbnails.medium.url}
-          alt={title}
-        />
-      )}
+      <img
+        className={isList ? "mr-2 w-60" : "w-full"}
+        src={thumbnails.medium.url}
+        alt={title}
+      />
+
       <div>
         <p className="my-2 line-clamp-2 font-semibold">{title}</p>
         <p className="text-sm opacity-80">{channelTitle}</p>
